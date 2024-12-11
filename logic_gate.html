@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id='bulb' style="background-color: transparent; width: 500px; height: 500px;"></div>
+    <button id="bulb_button">Off</button>
+
+    <script>
+        let button_check = document.getElementById('bulb_button');
+        button_check.addEventListener('click', Change)
+        function Change() {
+            if (button_check.innerHTML=='Off') {
+                button_check.innerHTML='On';
+                console.log(button_check.innerHTML == 'Off')
+            } else {
+                button_check.innerHTML='Off';
+                console.log(button_check.innerHTML == 'Off')
+            }
+            return 
+            
+        }
+        let counter = 0;
+        console.log(button_check.innerHTML == 'On')
+        while (button_check.innerHTML === 'Off') {
+
+            console.log('hello world');
+            counter++;
+        }
+    </script>
+</body>
+</html>

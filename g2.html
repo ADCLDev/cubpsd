@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+    <script>
+        function validateForm() {
+            var name = document.getElementById("name").value;
+            var username = document.getElementById("username").value;
+            var password = document.getElementById("password").value;
+            var gender = document.getElementById("gender").value;
+            var contactNo = document.getElementById("contactNo").value;
+
+            // Validate name
+            if (name.trim() === "") {
+                alert("Name cannot be empty");
+                return false;
+            }
+
+            // Validate username
+            if (username.trim() === "" || /\s/.test(username)) {
+                alert("Username cannot be empty and cannot contain whitespace");
+                return false;
+            }
+
+            // Validate password
+            if (password.length < 8 || password.length > 32) {
+                alert("Password length must be between 8 and 32 characters");
+                return false;
+            }
+
+            // Validate gender
+            if (gender === "") {
+                alert("Please select your gender");
+                return false;
+            }
+
+            // Validate contact number
+            if (!/^\d+$/.test(contactNo)) {
+                alert("Contact number must contain numbers only");
+                return false;
+            }
+
+            return true; // Form validated successfully
+        }
+    </script>
+</head>
+<body>
+    <form onsubmit="return validateForm()">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br>
+
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username"><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br>
+
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="">Select</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select><br>
+
+        <label for="contactNo">Contact No.:</label>
+        <input type="text" id="contactNo" name="contactNo"><br>
+
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
