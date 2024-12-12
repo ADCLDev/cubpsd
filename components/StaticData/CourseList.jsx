@@ -3865,7 +3865,2653 @@ const categoryList = [
         ]
       }
     ]
+  },
+
+  {
+    "id": 10,
+    "image": "https://img.freepik.com/free-vector/search-engine-optimization_24908-55724.jpg?ga=GA1.1.724683099.1731423728&semt=ais_hybrid",
+    "name": "Search Engine Optimization",
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "Digital Marketing Fundamentals",
+        "logo_image": "https://img.freepik.com/free-vector/digital-marketing-concept-illustration_114360-7493.jpg",
+        "reviews": "250",
+        "students": "300",
+        "fee": "BDT 20,000",
+        "slogan": "Master Digital Marketing with",
+        "duration": "3 Month",
+        "lecture": "36",
+        "projects": "10+",
+        "course_details": "Digital marketing is essential for modern business success. This comprehensive course covers all aspects of digital marketing, from strategy to implementation, helping you build effective online marketing campaigns.",
+        "course_overview": "Learn digital marketing fundamentals including SEO, content marketing, social media, email marketing, and analytics. Develop practical skills through real-world projects and case studies.",
+        "course_curriculum": [
+          "Digital Marketing Strategy",
+          "Market Research",
+          "Customer Journey Mapping",
+          "Content Strategy",
+          "SEO Fundamentals",
+          "Social Media Marketing",
+          "Email Marketing",
+          "Google Analytics",
+          "Marketing Automation",
+          "Lead Generation",
+          "Conversion Optimization",
+          "Mobile Marketing",
+          "Display Advertising",
+          "Video Marketing",
+          "Marketing Analytics",
+          "Campaign Planning",
+          "Budget Management",
+          "ROI Analysis",
+          "Performance Metrics",
+          "Industry Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Google Analytics"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Marketing Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Marketing Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Business Owners"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Digital Marketers"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "Social Media Marketing Mastery",
+        "logo_image": "https://img.freepik.com/free-vector/social-media-marketing-mobile-phone-concept_23-2148433182.jpg",
+        "reviews": "230",
+        "students": "280",
+        "fee": "BDT 18,000",
+        "slogan": "Grow Your Social Media Presence with",
+        "duration": "3 Month",
+        "lecture": "32",
+        "projects": "8+",
+        "course_details": "Social media marketing is crucial for brand building and customer engagement. This course teaches you to create and execute effective social media strategies across multiple platforms.",
+        "course_overview": "Master social media marketing strategies, content creation, community management, and analytics. Learn to build brand presence and engage audiences across major social platforms.",
+        "course_curriculum": [
+          "Platform Strategy",
+          "Content Creation",
+          "Community Management",
+          "Engagement Tactics",
+          "Paid Advertising",
+          "Audience Analysis",
+          "Campaign Planning",
+          "Visual Content",
+          "Video Marketing",
+          "Influencer Marketing",
+          "Analytics Tools",
+          "Performance Metrics",
+          "Brand Building",
+          "Crisis Management",
+          "Content Calendar",
+          "Social Listening",
+          "Competitor Analysis",
+          "ROI Measurement",
+          "Best Practices",
+          "Case Studies"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Social Media Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Analytics Platforms"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Social Media Managers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Content Creators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Brand Managers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "YouTube Audience Growth",
+        "logo_image": "https://img.freepik.com/free-vector/video-streaming-concept-illustration_114360-1763.jpg",
+        "reviews": "200",
+        "students": "250",
+        "fee": "BDT 22,000",
+        "slogan": "Build Your YouTube Channel with",
+        "duration": "4 Month",
+        "lecture": "40",
+        "projects": "12+",
+        "course_details": "Growing a YouTube channel requires strategy, consistency, and optimization. This course teaches you how to create engaging content, optimize for search, and build a loyal audience.",
+        "course_overview": "Learn YouTube content strategy, video optimization, audience engagement, and monetization. Master the skills to grow your channel and build a sustainable online presence.",
+        "course_curriculum": [
+          "Channel Strategy",
+          "Content Planning",
+          "Video Optimization",
+          "Thumbnail Design",
+          "Title Optimization",
+          "Description Writing",
+          "Tag Research",
+          "Analytics Understanding",
+          "Audience Engagement",
+          "Monetization Strategies",
+          "Algorithm Understanding",
+          "Collaboration Tactics",
+          "Community Building",
+          "Live Streaming",
+          "Channel Branding",
+          "Video SEO",
+          "Promotional Strategies",
+          "Performance Analysis",
+          "Growth Hacking",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "YouTube Studio"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Analytics Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Content Creators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "YouTubers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Brand Managers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "Content Writing & Strategy",
+        "logo_image": "https://img.freepik.com/free-vector/content-management-concept-illustration_114360-6134.jpg",
+        "reviews": "190",
+        "students": "230",
+        "fee": "BDT 15,000",
+        "slogan": "Master Content Creation with",
+        "duration": "3 Month",
+        "lecture": "30",
+        "projects": "10+",
+        "course_details": "Effective content writing is key to digital success. This course covers content strategy, creation, and optimization for various digital platforms and audiences.",
+        "course_overview": "Learn content writing fundamentals, SEO writing, copywriting, and content strategy. Develop skills to create engaging content that drives results across different platforms.",
+        "course_curriculum": [
+          "Content Strategy",
+          "Writing Fundamentals",
+          "SEO Writing",
+          "Copywriting",
+          "Brand Voice",
+          "Content Types",
+          "Audience Research",
+          "Keyword Research",
+          "Content Planning",
+          "Editorial Calendar",
+          "Content Tools",
+          "Writing for Web",
+          "Blog Writing",
+          "Social Media Content",
+          "Email Content",
+          "Content Analytics",
+          "Content Distribution",
+          "Content Optimization",
+          "Storytelling",
+          "Content Marketing"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Writing Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "SEO Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Content Writers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Copywriters"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Marketing Professionals"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "Google Ads Mastery",
+        "logo_image": "https://img.freepik.com/free-vector/google-ads-concept-illustration_114360-5366.jpg",
+        "reviews": "210",
+        "students": "260",
+        "fee": "BDT 25,000",
+        "slogan": "Master Paid Advertising with",
+        "duration": "3 Month",
+        "lecture": "34",
+        "projects": "8+",
+        "course_details": "Google Ads is essential for digital advertising success. This course teaches you to create, manage, and optimize Google Ads campaigns for maximum ROI.",
+        "course_overview": "Learn Google Ads strategy, campaign creation, optimization, and analysis. Master search, display, video, and shopping campaigns to drive business results.",
+        "course_curriculum": [
+          "Ads Fundamentals",
+          "Campaign Strategy",
+          "Keyword Research",
+          "Ad Copy Writing",
+          "Campaign Structure",
+          "Bidding Strategies",
+          "Budget Management",
+          "Quality Score",
+          "Ad Extensions",
+          "Display Ads",
+          "Video Ads",
+          "Shopping Ads",
+          "Remarketing",
+          "Conversion Tracking",
+          "Analytics Integration",
+          "Performance Analysis",
+          "Optimization Techniques",
+          "A/B Testing",
+          "ROI Measurement",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Google Ads"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Analytics Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Digital Marketers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "PPC Specialists"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Marketing Managers"
+          }
+        ]
+      },
+      {
+        "course_id": 6,
+        "course_title": "Affiliate Marketing Success",
+        "logo_image": "https://img.freepik.com/free-vector/affiliate-marketing-concept-illustration_114360-7493.jpg",
+        "reviews": "180",
+        "students": "220",
+        "fee": "BDT 20,000",
+        "slogan": "Build Passive Income with",
+        "duration": "3 Month",
+        "lecture": "32",
+        "projects": "8+",
+        "course_details": "Affiliate marketing offers opportunities for passive income generation. This course teaches you to build successful affiliate marketing campaigns and generate consistent revenue.",
+        "course_overview": "Master affiliate marketing strategies, program selection, promotion techniques, and optimization. Learn to build sustainable income streams through affiliate partnerships.",
+        "course_curriculum": [
+          "Affiliate Fundamentals",
+          "Program Selection",
+          "Niche Research",
+          "Product Research",
+          "Promotional Strategy",
+          "Content Creation",
+          "SEO Optimization",
+          "Email Marketing",
+          "Social Media Marketing",
+          "Landing Pages",
+          "Conversion Optimization",
+          "Traffic Generation",
+          "Analytics Tools",
+          "Performance Tracking",
+          "Commission Optimization",
+          "Legal Compliance",
+          "Risk Management",
+          "Scaling Strategies",
+          "Income Diversification",
+          "Case Studies"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Affiliate Platforms"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Tracking Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Affiliate Marketers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Digital Entrepreneurs"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Content Creators"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "image": "https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg",
+    "name": "Server & Cloud Computing",
+    "category_images": [
+      {
+        "name": "AWS",
+        "image": "https://img.freepik.com/free-vector/cloud-computing-modern-flat-concept-cloud-technology-infrastructure_3446-564.jpg"
+      },
+      {
+        "name": "Amazon",
+        "image": "https://img.freepik.com/free-vector/gradient-colored-futuristic-data-center_23-2149389176.jpg"
+      },
+      {
+        "name": "Windows Server",
+        "image": "https://img.freepik.com/free-vector/server-room-cloud-storage-icon-datacenter-database-concept-data-exchange-process_39422-556.jpg"
+      },
+      {
+        "name": "Linux Server",
+        "image": "https://img.freepik.com/free-vector/cloud-hosting-concept-illustration_23-2148926577.jpg"
+      },
+      {
+        "name": "Red Hat",
+        "image": "https://img.freepik.com/free-vector/server-room-rack-blockchain-technology-token-api-access-data-center_39422-442.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "AWS Cloud Solutions Architecture",
+        "logo_image": "https://img.freepik.com/free-vector/cloud-services-isometric-composition_1284-17110.jpg",
+        "reviews": "280",
+        "students": "350",
+        "fee": "BDT 35,000",
+        "slogan": "Master Cloud Architecture with",
+        "duration": "6 Month",
+        "lecture": "48",
+        "projects": "15+",
+        "course_details": "AWS is the leading cloud platform globally. This comprehensive course covers AWS architecture, services, and best practices for building scalable cloud solutions.",
+        "course_overview": "Learn AWS cloud architecture from fundamentals to advanced concepts. Master key services, security practices, and solution design patterns. Prepare for AWS certification exams.",
+        "course_curriculum": [
+          "AWS Fundamentals",
+          "IAM & Security",
+          "VPC Architecture",
+          "EC2 & EBS",
+          "S3 & Storage Services",
+          "RDS & Database Services",
+          "Lambda & Serverless",
+          "CloudFront & CDN",
+          "Route 53 & DNS",
+          "ELB & Auto Scaling",
+          "CloudWatch Monitoring",
+          "CloudFormation",
+          "AWS CLI & SDK",
+          "Container Services",
+          "Security Best Practices",
+          "Cost Optimization",
+          "High Availability",
+          "Disaster Recovery",
+          "Migration Strategies",
+          "Solution Architecture"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "AWS Console"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "AWS CLI"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Cloud Architects"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "DevOps Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "System Administrators"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "Amazon Web Services DevOps",
+        "logo_image": "https://img.freepik.com/free-vector/gradient-devops-illustration_23-2149370940.jpg",
+        "reviews": "260",
+        "students": "320",
+        "fee": "BDT 40,000",
+        "slogan": "Master DevOps on AWS with",
+        "duration": "5 Month",
+        "lecture": "45",
+        "projects": "12+",
+        "course_details": "DevOps on AWS combines development and operations practices with powerful cloud services. Learn to implement continuous integration and delivery pipelines on AWS.",
+        "course_overview": "Master AWS DevOps tools and practices for automated software delivery. Learn CI/CD pipelines, infrastructure as code, and monitoring solutions.",
+        "course_curriculum": [
+          "DevOps Fundamentals",
+          "AWS CodePipeline",
+          "AWS CodeBuild",
+          "AWS CodeDeploy",
+          "AWS CodeCommit",
+          "Infrastructure as Code",
+          "CloudFormation",
+          "Terraform",
+          "Container Orchestration",
+          "ECS & EKS",
+          "Monitoring & Logging",
+          "Application Performance",
+          "Security Automation",
+          "Cost Management",
+          "Deployment Strategies",
+          "Pipeline Design",
+          "Testing Automation",
+          "Configuration Management",
+          "Compliance Automation",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "AWS DevOps Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Terraform"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "DevOps Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Cloud Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Windows Server Administration",
+        "logo_image": "https://img.freepik.com/free-vector/server-room-cloud-storage-icon-datacenter-database-concept-data-exchange-process_39422-556.jpg",
+        "reviews": "240",
+        "students": "290",
+        "fee": "BDT 30,000",
+        "slogan": "Master Windows Server with",
+        "duration": "4 Month",
+        "lecture": "40",
+        "projects": "10+",
+        "course_details": "Windows Server is essential for enterprise IT infrastructure. Learn to install, configure, and manage Windows Server environments for business applications.",
+        "course_overview": "Master Windows Server administration from installation to advanced management. Learn Active Directory, Group Policy, and server roles configuration.",
+        "course_curriculum": [
+          "Server Installation",
+          "Active Directory",
+          "Group Policy",
+          "DNS Configuration",
+          "DHCP Services",
+          "File Services",
+          "Print Services",
+          "Storage Management",
+          "Backup & Recovery",
+          "Security Configuration",
+          "Network Services",
+          "Remote Access",
+          "Virtualization",
+          "Clustering",
+          "Performance Monitoring",
+          "Troubleshooting",
+          "PowerShell Scripting",
+          "Server Hardening",
+          "Patch Management",
+          "Disaster Recovery"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Windows Server"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "PowerShell"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "System Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "IT Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Network Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "Linux Server Administration",
+        "logo_image": "https://img.freepik.com/free-vector/server-room-cloud-storage-isometric-icon-datacenter-database-concept-data-exchange-process_39422-972.jpg",
+        "reviews": "250",
+        "students": "310",
+        "fee": "BDT 28,000",
+        "slogan": "Master Linux Administration with",
+        "duration": "4 Month",
+        "lecture": "42",
+        "projects": "12+",
+        "course_details": "Linux powers most of the internet's infrastructure. Learn to administrate Linux servers, from basic commands to advanced system management.",
+        "course_overview": "Master Linux server administration from command line to system services. Learn security, networking, and automation for Linux environments.",
+        "course_curriculum": [
+          "Linux Fundamentals",
+          "Command Line",
+          "User Management",
+          "File System",
+          "Process Management",
+          "Network Configuration",
+          "Service Management",
+          "Package Management",
+          "Security Configuration",
+          "Shell Scripting",
+          "System Monitoring",
+          "Performance Tuning",
+          "Backup Solutions",
+          "Log Management",
+          "Database Administration",
+          "Web Services",
+          "Virtualization",
+          "Container Management",
+          "Troubleshooting",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Linux OS"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Shell"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "System Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "DevOps Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "IT Professionals"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "Red Hat Enterprise Linux Administration",
+        "logo_image": "https://img.freepik.com/free-vector/server-room-rack-blockchain-technology-token-api-access-data-center_39422-442.jpg",
+        "reviews": "230",
+        "students": "280",
+        "fee": "BDT 32,000",
+        "slogan": "Master Enterprise Linux with",
+        "duration": "5 Month",
+        "lecture": "45",
+        "projects": "10+",
+        "course_details": "Red Hat Enterprise Linux is the leading enterprise Linux platform. Learn to manage enterprise-grade Linux environments and prepare for Red Hat certification.",
+        "course_overview": "Master Red Hat Enterprise Linux administration from basics to advanced topics. Prepare for RHCSA and RHCE certifications while learning practical skills.",
+        "course_curriculum": [
+          "RHEL Fundamentals",
+          "System Management",
+          "User Administration",
+          "Storage Management",
+          "Network Services",
+          "Security Features",
+          "Service Configuration",
+          "Package Management",
+          "Process Management",
+          "Shell Scripting",
+          "System Monitoring",
+          "Performance Tuning",
+          "Virtualization",
+          "Container Management",
+          "Troubleshooting",
+          "Security Hardening",
+          "Backup Solutions",
+          "System Recovery",
+          "Automation Tools",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "RHEL"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Ansible"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Linux Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "IT Professionals"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 12,
+    "image": "https://img.freepik.com/free-vector/big-data-processing-concept-illustration_114360-4239.jpg",
+    "name": "Database Management Systems",
+    "category_images": [
+      {
+        "name": "NoSQL",
+        "image": "https://img.freepik.com/free-vector/gradient-colored-big-data-background_23-2149090471.jpg"
+      },
+      {
+        "name": "MongoDB",
+        "image": "https://img.freepik.com/free-vector/information-technology-landing-page_23-2148224727.jpg"
+      },
+      {
+        "name": "Cassandra",
+        "image": "https://img.freepik.com/free-vector/server-concept-illustration_114360-5486.jpg"
+      },
+      {
+        "name": "Redis",
+        "image": "https://img.freepik.com/free-vector/cloud-storage-concept-illustration_114360-7483.jpg"
+      },
+      {
+        "name": "Neo4J",
+        "image": "https://img.freepik.com/free-vector/data-network-connection-internet-technology_24877-498.jpg"
+      },
+      {
+        "name": "Oracle",
+        "image": "https://img.freepik.com/free-vector/data-analytics-concept-illustration_114360-883.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "NoSQL Database Development",
+        "logo_image": "https://img.freepik.com/free-vector/database-concept-illustration_114360-1027.jpg",
+        "reviews": "240",
+        "students": "300",
+        "fee": "BDT 25,000",
+        "slogan": "Master Modern Databases with",
+        "duration": "4 Month",
+        "lecture": "40",
+        "projects": "12+",
+        "course_details": "NoSQL databases are essential for modern scalable applications. This comprehensive course covers NoSQL database concepts, design patterns, and implementation strategies.",
+        "course_overview": "Learn NoSQL database fundamentals, different types of NoSQL databases, and when to use each type. Master data modeling, scaling, and performance optimization for NoSQL systems.",
+        "course_curriculum": [
+          "NoSQL Fundamentals",
+          "Data Models",
+          "CAP Theorem",
+          "Consistency Models",
+          "Scaling Patterns",
+          "Partitioning Strategies",
+          "Replication Models",
+          "Query Patterns",
+          "Performance Tuning",
+          "Security Models",
+          "Backup Strategies",
+          "Recovery Patterns",
+          "Monitoring Tools",
+          "Analytics Integration",
+          "Migration Strategies",
+          "Best Practices",
+          "Use Case Analysis",
+          "Architecture Design",
+          "Implementation Patterns",
+          "Production Deployment"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "MongoDB"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Cassandra"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Architects"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Backend Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "MongoDB Development & Administration",
+        "logo_image": "https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?ga=GA1.1.724683099.1731423728&semt=ais_hybrid",
+        "reviews": "260",
+        "students": "320",
+        "fee": "BDT 28,000",
+        "slogan": "Master Document Databases with",
+        "duration": "4 Month",
+        "lecture": "38",
+        "projects": "10+",
+        "course_details": "MongoDB is the leading document database for modern applications. Learn to design, develop, and manage MongoDB databases for scalable applications.",
+        "course_overview": "Master MongoDB from basic operations to advanced features. Learn data modeling, indexing, aggregation, and administration for MongoDB deployments.",
+        "course_curriculum": [
+          "MongoDB Architecture",
+          "CRUD Operations",
+          "Data Modeling",
+          "Indexing Strategies",
+          "Aggregation Framework",
+          "Replication",
+          "Sharding",
+          "Security Configuration",
+          "Performance Tuning",
+          "Monitoring Tools",
+          "Backup & Recovery",
+          "Schema Design",
+          "Query Optimization",
+          "Atlas Cloud",
+          "Change Streams",
+          "Transaction Management",
+          "Compass GUI",
+          "Shell Operations",
+          "Driver Integration",
+          "Production Management"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "MongoDB"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "MongoDB Compass"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Apache Cassandra & Distributed Databases",
+        "logo_image": "https://img.freepik.com/free-vector/data-centers-abstract-concept-vector-illustration_107173-30025.jpg",
+        "reviews": "220",
+        "students": "280",
+        "fee": "BDT 30,000",
+        "slogan": "Master Distributed Databases with",
+        "duration": "5 Month",
+        "lecture": "45",
+        "projects": "12+",
+        "course_details": "Apache Cassandra is a highly scalable distributed database system. Learn to design and manage Cassandra clusters for large-scale applications.",
+        "course_overview": "Master Cassandra architecture, data modeling, and administration. Learn distributed database concepts and practical implementation strategies.",
+        "course_curriculum": [
+          "Distributed Systems",
+          "Cassandra Architecture",
+          "Data Modeling",
+          "CQL Fundamentals",
+          "Partition Strategies",
+          "Replication Design",
+          "Consistency Levels",
+          "Cluster Management",
+          "Performance Tuning",
+          "Monitoring Setup",
+          "Backup Solutions",
+          "Recovery Procedures",
+          "Security Setup",
+          "Authentication",
+          "Authorization",
+          "Network Configuration",
+          "Integration Patterns",
+          "Maintenance Tasks",
+          "Troubleshooting",
+          "Production Deployment"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Cassandra"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "DataStax"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "DevOps Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "Redis Cache & In-Memory Database",
+        "logo_image": "https://img.freepik.com/free-vector/cloud-storage-concept-illustration_114360-7483.jpg",
+        "reviews": "200",
+        "students": "250",
+        "fee": "BDT 22,000",
+        "slogan": "Master In-Memory Databases with",
+        "duration": "3 Month",
+        "lecture": "32",
+        "projects": "8+",
+        "course_details": "Redis is the leading in-memory database and caching solution. Learn to implement Redis for high-performance applications and caching strategies.",
+        "course_overview": "Master Redis from basic operations to advanced features. Learn caching strategies, data structures, and performance optimization techniques.",
+        "course_curriculum": [
+          "Redis Basics",
+          "Data Structures",
+          "Caching Strategies",
+          "Persistence Options",
+          "Replication Setup",
+          "Cluster Configuration",
+          "Performance Tuning",
+          "Memory Management",
+          "Monitoring Tools",
+          "Security Features",
+          "Backup Solutions",
+          "Recovery Procedures",
+          "Pub/Sub Pattern",
+          "Lua Scripting",
+          "Transaction Handling",
+          "Connection Management",
+          "Client Libraries",
+          "Use Case Patterns",
+          "Production Setup",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Redis"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Redis Insight"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Backend Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Architects"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Performance Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "Neo4j Graph Database Development",
+        "logo_image": "https://img.freepik.com/free-vector/abstract-technology-particle-background_52683-25766.jpg",
+        "reviews": "190",
+        "students": "230",
+        "fee": "BDT 26,000",
+        "slogan": "Master Graph Databases with",
+        "duration": "4 Month",
+        "lecture": "36",
+        "projects": "10+",
+        "course_details": "Neo4j is the leading graph database platform. Learn to model, query, and analyze connected data using graph database concepts and Neo4j.",
+        "course_overview": "Master graph database concepts and Neo4j implementation. Learn Cypher query language, data modeling, and graph analytics.",
+        "course_curriculum": [
+          "Graph Theory",
+          "Neo4j Architecture",
+          "Cypher Language",
+          "Data Modeling",
+          "Graph Algorithms",
+          "Query Optimization",
+          "Index Management",
+          "APOC Procedures",
+          "Graph Analytics",
+          "Visualization Tools",
+          "Security Setup",
+          "Backup Strategies",
+          "Recovery Procedures",
+          "Clustering Setup",
+          "Performance Tuning",
+          "Integration Patterns",
+          "Data Import",
+          "Data Export",
+          "Monitoring Tools",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Neo4j"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Neo4j Browser"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Graph Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Data Scientists"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Software Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 6,
+        "course_title": "Oracle Database Administration",
+        "logo_image": "https://img.freepik.com/free-vector/worker-with-graphic_1012-201.jpg?ga=GA1.1.724683099.1731423728&semt=ais_hybrid",
+        "reviews": "280",
+        "students": "350",
+        "fee": "BDT 35,000",
+        "slogan": "Master Enterprise Databases with",
+        "duration": "6 Month",
+        "lecture": "50",
+        "projects": "15+",
+        "course_details": "Oracle is the leading enterprise database platform. Learn to administrate and optimize Oracle databases for enterprise applications.",
+        "course_overview": "Master Oracle database administration from installation to optimization. Learn backup, recovery, security, and performance tuning.",
+        "course_curriculum": [
+          "Oracle Architecture",
+          "Installation Setup",
+          "Database Creation",
+          "Storage Management",
+          "User Management",
+          "Security Setup",
+          "Backup Strategies",
+          "Recovery Procedures",
+          "Performance Tuning",
+          "SQL Optimization",
+          "Index Management",
+          "Partitioning",
+          "RAC Setup",
+          "Data Guard",
+          "AWR Analysis",
+          "RMAN Backup",
+          "Patch Management",
+          "Upgrade Procedures",
+          "Monitoring Setup",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Oracle RDBMS"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "SQL Developer"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Engineers"
+          },
+        ]
+      },
+      {
+        "course_id": 7,
+        "course_title": "MySQL Database Development & Administration",
+        "logo_image": "https://img.freepik.com/free-vector/server-room-cloud-storage-icon-database-concept_39422-553.jpg",
+        "reviews": "270",
+        "students": "340",
+        "fee": "BDT 24,000",
+        "slogan": "Master Open Source Databases with",
+        "duration": "4 Month",
+        "lecture": "42",
+        "projects": "12+",
+        "course_details": "MySQL is the world's most popular open-source database. Learn to develop and manage MySQL databases for web applications and enterprise systems.",
+        "course_overview": "Master MySQL database development and administration. Learn SQL query optimization, database design, backup strategies, and performance tuning.",
+        "course_curriculum": [
+          "MySQL Architecture",
+          "Installation & Setup",
+          "SQL Fundamentals",
+          "Database Design",
+          "Query Optimization",
+          "Index Management",
+          "Storage Engines",
+          "Backup Strategies",
+          "Recovery Procedures",
+          "Replication Setup",
+          "Security Management",
+          "User Administration",
+          "Performance Tuning",
+          "Monitoring Tools",
+          "Maintenance Tasks",
+          "Troubleshooting",
+          "High Availability",
+          "Scaling Strategies",
+          "Cloud Integration",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "MySQL Server"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "MySQL Workbench"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Web Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "System Administrators"
+          }
+        ]
+      },
+      {
+        "course_id": 8,
+        "course_title": "PostgreSQL Advanced Database Management",
+        "logo_image": "https://img.freepik.com/free-vector/data-center-abstract-concept-vector-illustration_107173-30384.jpg",
+        "reviews": "250",
+        "students": "310",
+        "fee": "BDT 28,000",
+        "slogan": "Master Advanced SQL with",
+        "duration": "5 Month",
+        "lecture": "45",
+        "projects": "14+",
+        "course_details": "PostgreSQL is the world's most advanced open-source database. Learn to leverage its powerful features for complex applications and data warehousing.",
+        "course_overview": "Master PostgreSQL's advanced features including custom types, extensions, and procedural languages. Learn performance optimization and enterprise deployment.",
+        "course_curriculum": [
+          "PostgreSQL Architecture",
+          "Advanced SQL",
+          "PL/pgSQL Programming",
+          "Custom Types & Domains",
+          "Extensions Development",
+          "Indexing Strategies",
+          "Query Optimization",
+          "Concurrency Control",
+          "Vacuum Management",
+          "Partitioning",
+          "Replication Setup",
+          "Backup Strategies",
+          "Recovery Planning",
+          "Security Features",
+          "Performance Tuning",
+          "Monitoring Solutions",
+          "High Availability",
+          "Scaling Options",
+          "Cloud Deployment",
+          "Enterprise Features"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "PostgreSQL"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "pgAdmin"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Database Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Architects"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Enterprise Developers"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 13,
+    "image": "https://img.freepik.com/free-vector/global-data-security-personal-data-security-cyber-data-security-online-concept-illustration-internet-security-information-privacy-protection_1150-37336.jpg",
+    "name": "Cybersecurity & Ethical Hacking",
+    "category_images": [
+      {
+        "name": "CCNA",
+        "image": "https://img.freepik.com/free-vector/cyber-security-concept_23-2148532223.jpg"
+      },
+      {
+        "name": "IT Security",
+        "image": "https://img.freepik.com/free-vector/cyber-security-illustration_23-2148531735.jpg"
+      },
+      {
+        "name": "CEH",
+        "image": "https://img.freepik.com/free-vector/hacker-activity-concept_23-2148541203.jpg"
+      },
+      {
+        "name": "Security+",
+        "image": "https://img.freepik.com/free-vector/data-protection-law-illustration-concept_114360-971.jpg"
+      },
+      {
+        "name": "Advanced Hacking",
+        "image": "https://img.freepik.com/free-vector/cyber-attack-concept-illustration_114360-1528.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "CCNA Security Certification",
+        "logo_image": "https://img.freepik.com/free-vector/cyber-security-concept-illustration_114360-4562.jpg",
+        "reviews": "290",
+        "students": "350",
+        "fee": "BDT 35,000",
+        "slogan": "Master Network Security with",
+        "duration": "6 Month",
+        "lecture": "48",
+        "projects": "15+",
+        "course_details": "CCNA Security provides foundation for network security. Learn to implement security technologies, threat identification, and network defense strategies.",
+        "course_overview": "Comprehensive preparation for CCNA Security certification. Master network security concepts, implementation, and best practices for enterprise networks.",
+        "course_curriculum": [
+          "Network Fundamentals",
+          "Security Concepts",
+          "Network Threats",
+          "Access Control",
+          "VPN Technologies",
+          "Firewall Technologies",
+          "IPS Deployment",
+          "Network Security",
+          "Cryptography",
+          "Security Policies",
+          "Threat Detection",
+          "Incident Response",
+          "Security Protocols",
+          "Network Monitoring",
+          "Security Appliances",
+          "Zone-Based Security",
+          "ASA Configuration",
+          "Security Architecture",
+          "Wireless Security",
+          "Security Management"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Cisco Packet Tracer"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "GNS3"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Network Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Security Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "IT Administrators"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "IT Security Fundamentals",
+        "logo_image": "https://img.freepik.com/free-vector/cyber-security-concept-illustration_114360-4373.jpg",
+        "reviews": "270",
+        "students": "330",
+        "fee": "BDT 28,000",
+        "slogan": "Build Strong Security Foundation with",
+        "duration": "4 Month",
+        "lecture": "40",
+        "projects": "12+",
+        "course_details": "Comprehensive introduction to IT security principles, practices, and implementation strategies for protecting organizational assets and infrastructure.",
+        "course_overview": "Learn fundamental IT security concepts, risk management, security controls, and compliance standards. Master practical security implementation skills.",
+        "course_curriculum": [
+          "Security Fundamentals",
+          "Risk Management",
+          "Access Controls",
+          "Network Security",
+          "Application Security",
+          "Data Protection",
+          "Cryptography Basics",
+          "Security Policies",
+          "Physical Security",
+          "Identity Management",
+          "Disaster Recovery",
+          "Business Continuity",
+          "Security Architecture",
+          "Cloud Security",
+          "Mobile Security",
+          "Incident Handling",
+          "Security Tools",
+          "Compliance Standards",
+          "Security Auditing",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Security Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Monitoring Software"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "IT Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "System Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Security Analysts"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Certified Ethical Hacker (CEH)",
+        "logo_image": "https://img.freepik.com/free-photo/illegal-acts-with-computer_1134-497.jpg?ga=GA1.1.724683099.1731423728&semt=ais_hybrid",
+        "reviews": "300",
+        "students": "380",
+        "fee": "BDT 40,000",
+        "slogan": "Master Ethical Hacking with",
+        "duration": "6 Month",
+        "lecture": "52",
+        "projects": "18+",
+        "course_details": "Official CEH certification preparation course. Learn ethical hacking methodologies, tools, and techniques for identifying and securing system vulnerabilities.",
+        "course_overview": "Comprehensive ethical hacking training covering reconnaissance, scanning, enumeration, system hacking, and more. Prepare for CEH certification.",
+        "course_curriculum": [
+          "Ethical Hacking Basics",
+          "Footprinting",
+          "Scanning Networks",
+          "Enumeration",
+          "System Hacking",
+          "Malware Threats",
+          "Sniffing",
+          "Social Engineering",
+          "Denial of Service",
+          "Session Hijacking",
+          "Web Servers Hacking",
+          "Web Applications",
+          "SQL Injection",
+          "Wireless Networks",
+          "Mobile Platforms",
+          "IoT Hacking",
+          "Cloud Computing",
+          "Cryptography",
+          "Penetration Testing",
+          "Tools & Methodologies"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Kali Linux"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Security Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Security Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Network Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Penetration Testers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "CompTIA Security+ Certification",
+        "logo_image": "https://img.freepik.com/free-vector/cyber-security-concept-illustration_114360-4784.jpg",
+        "reviews": "260",
+        "students": "320",
+        "fee": "BDT 32,000",
+        "slogan": "Master Security Fundamentals with",
+        "duration": "4 Month",
+        "lecture": "45",
+        "projects": "14+",
+        "course_details": "CompTIA Security+ is a globally recognized certification for IT security professionals. Learn essential security concepts and practices.",
+        "course_overview": "Comprehensive preparation for Security+ certification. Master security concepts, tools, and procedures required for IT security professionals.",
+        "course_curriculum": [
+          "Security Concepts",
+          "Types of Attacks",
+          "Security Tools",
+          "Risk Management",
+          "Cryptography",
+          "PKI Management",
+          "Authentication",
+          "Access Control",
+          "Network Security",
+          "Wireless Security",
+          "Mobile Security",
+          "Cloud Security",
+          "Data Security",
+          "Host Security",
+          "Application Security",
+          "Security Assessment",
+          "Incident Response",
+          "Disaster Recovery",
+          "Compliance",
+          "Operational Security"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Security Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Analysis Software"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Security Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "IT Administrators"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Network Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "Advanced Ethical Hacking & Security",
+        "logo_image": "https://img.freepik.com/free-vector/cyber-security-illustration_23-2148530843.jpg",
+        "reviews": "240",
+        "students": "290",
+        "fee": "BDT 45,000",
+        "slogan": "Master Advanced Security with",
+        "duration": "6 Month",
+        "lecture": "55",
+        "projects": "20+",
+        "course_details": "Advanced course covering Android hacking, blockchain security, and advanced penetration testing techniques for modern systems.",
+        "course_overview": "Learn advanced ethical hacking techniques focusing on mobile platforms and blockchain. Master cutting-edge security testing and protection strategies.",
+        "course_curriculum": [
+          "Android Architecture",
+          "Mobile Attack Vectors",
+          "App Penetration Testing",
+          "Blockchain Security",
+          "Smart Contract Auditing",
+          "DApp Security",
+          "Advanced Exploitation",
+          "Reverse Engineering",
+          "Malware Analysis",
+          "Web App Security",
+          "API Security",
+          "Cloud Penetration",
+          "Network Attacks",
+          "Wireless Hacking",
+          "IoT Security",
+          "Advanced Persistence",
+          "Defense Strategies",
+          "Security Hardening",
+          "Incident Response",
+          "Advanced Tools"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Android Studio"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Security Suite"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Security Experts"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Penetration Testers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Security Researchers"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 14,
+    "image": "https://img.freepik.com/free-vector/qa-engineers-doing-app-testing-illustration_107791-3291.jpg",
+    "name": "Software Testing & Quality Assurance",
+    "category_images": [
+      {
+        "name": "Testing Foundation",
+        "image": "https://img.freepik.com/free-vector/qa-department-working-testing-program_23-2148693994.jpg"
+      },
+      {
+        "name": "Advanced Testing",
+        "image": "https://img.freepik.com/free-vector/software-testing-concept-illustration_114360-8174.jpg"
+      },
+      {
+        "name": "Java Testing",
+        "image": "https://img.freepik.com/free-vector/programmer-working-web-development-code_107791-4742.jpg"
+      },
+      {
+        "name": "Quality Assurance",
+        "image": "https://img.freepik.com/free-vector/website-maintenance-abstract-concept-illustration_335657-2243.jpg"
+      },
+      {
+        "name": "DevOps",
+        "image": "https://img.freepik.com/free-vector/devops-team-abstract-concept-vector-illustration_107791-3271.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "Software Testing Foundation",
+        "logo_image": "https://img.freepik.com/free-vector/qa-team-testing-app-illustration_107791-3240.jpg",
+        "reviews": "250",
+        "students": "320",
+        "fee": "BDT 25,000",
+        "slogan": "Master Testing Fundamentals with",
+        "duration": "3 Month",
+        "lecture": "36",
+        "projects": "10+",
+        "course_details": "Comprehensive introduction to software testing fundamentals, methodologies, and best practices for ensuring software quality.",
+        "course_overview": "Learn essential software testing concepts, techniques, and tools. Master test planning, execution, and reporting for quality assurance.",
+        "course_curriculum": [
+          "Testing Fundamentals",
+          "SDLC Overview",
+          "Testing Types",
+          "Test Planning",
+          "Test Cases Design",
+          "Test Execution",
+          "Defect Management",
+          "Test Documentation",
+          "Manual Testing",
+          "Black Box Testing",
+          "White Box Testing",
+          "Integration Testing",
+          "System Testing",
+          "User Acceptance Testing",
+          "Performance Testing Basics",
+          "Mobile Testing Basics",
+          "Test Management",
+          "Quality Metrics",
+          "Testing Tools",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "JIRA"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "TestRail"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Beginner Testers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Quality Analysts"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "IT Professionals"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "Advanced Software Testing",
+        "logo_image": "https://img.freepik.com/free-vector/qa-engineers-doing-testing-app-illustration_107791-3379.jpg",
+        "reviews": "230",
+        "students": "280",
+        "fee": "BDT 30,000",
+        "slogan": "Master Advanced Testing with",
+        "duration": "4 Month",
+        "lecture": "42",
+        "projects": "12+",
+        "course_details": "Advanced software testing techniques and methodologies for experienced testers. Focus on automation, performance, and security testing.",
+        "course_overview": "Learn advanced testing concepts including automation frameworks, performance testing, and security testing methodologies.",
+        "course_curriculum": [
+          "Test Automation",
+          "Selenium WebDriver",
+          "TestNG Framework",
+          "Performance Testing",
+          "JMeter",
+          "LoadRunner",
+          "Security Testing",
+          "API Testing",
+          "Postman",
+          "SoapUI",
+          "Mobile Testing",
+          "Appium",
+          "CI/CD Integration",
+          "Jenkins",
+          "Test Architecture",
+          "Framework Design",
+          "Cloud Testing",
+          "Test Strategy",
+          "Advanced Reporting",
+          "Team Leadership"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Selenium"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "JMeter"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Senior Testers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Test Leads"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Automation Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Java Spring Testing",
+        "logo_image": "https://img.freepik.com/free-vector/programmer-working-flat-style_52683-15041.jpg",
+        "reviews": "210",
+        "students": "260",
+        "fee": "BDT 32,000",
+        "slogan": "Master Spring Testing with",
+        "duration": "4 Month",
+        "lecture": "40",
+        "projects": "12+",
+        "course_details": "Comprehensive course on testing Java Spring applications using modern testing frameworks and methodologies.",
+        "course_overview": "Learn to test Spring applications using JUnit, Mockito, and Spring Test framework. Master integration testing and test automation.",
+        "course_curriculum": [
+          "Spring Framework Basics",
+          "Unit Testing",
+          "JUnit 5",
+          "Mockito Framework",
+          "Spring Test",
+          "Integration Testing",
+          "Test Containers",
+          "Database Testing",
+          "REST API Testing",
+          "Security Testing",
+          "Performance Testing",
+          "Mock MVC Testing",
+          "WebTestClient",
+          "Test Slices",
+          "Test Configuration",
+          "Test Profiles",
+          "CI/CD Integration",
+          "Test Coverage",
+          "Documentation",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Spring Framework"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "JUnit"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Java Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Test Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "QA Engineers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "Complete Software Testing",
+        "logo_image": "https://img.freepik.com/free-vector/qa-team-testing-app-illustration_107791-3326.jpg",
+        "reviews": "270",
+        "students": "340",
+        "fee": "BDT 35,000",
+        "slogan": "Master End-to-End Testing with",
+        "duration": "6 Month",
+        "lecture": "52",
+        "projects": "15+",
+        "course_details": "Comprehensive software testing course covering all aspects from manual testing to automation, performance, and security testing.",
+        "course_overview": "Complete guide to software testing including manual, automation, performance, and security testing. Prepare for industry certification.",
+        "course_curriculum": [
+          "Testing Fundamentals",
+          "Test Planning",
+          "Test Design",
+          "Manual Testing",
+          "Automation Basics",
+          "Selenium WebDriver",
+          "API Testing",
+          "Performance Testing",
+          "Security Testing",
+          "Mobile Testing",
+          "Cloud Testing",
+          "DevOps Integration",
+          "Test Management",
+          "Defect Management",
+          "Agile Testing",
+          "Test Metrics",
+          "Quality Processes",
+          "Team Leadership",
+          "Career Growth",
+          "Industry Standards"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Testing Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Automation Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "QA Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Test Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Test Managers"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "DevOps Testing",
+        "logo_image": "https://img.freepik.com/free-vector/devops-team-abstract-concept-vector-illustration_107791-3271.jpg",
+        "reviews": "240",
+        "students": "300",
+        "fee": "BDT 38,000",
+        "slogan": "Master DevOps Testing with",
+        "duration": "5 Month",
+        "lecture": "45",
+        "projects": "14+",
+        "course_details": "Learn DevOps testing practices including continuous testing, automation, and integration with CI/CD pipelines.",
+        "course_overview": "Master DevOps testing principles and practices. Learn to implement continuous testing in CI/CD pipelines and cloud environments.",
+        "course_curriculum": [
+          "DevOps Overview",
+          "Continuous Testing",
+          "Test Automation",
+          "CI/CD Pipeline",
+          "Jenkins Integration",
+          "Docker Containers",
+          "Kubernetes Testing",
+          "Infrastructure Testing",
+          "Configuration Testing",
+          "Security Testing",
+          "Performance Testing",
+          "Monitoring & Logging",
+          "Cloud Testing",
+          "Test Orchestration",
+          "Pipeline Automation",
+          "Release Management",
+          "Quality Gates",
+          "Metrics & Analytics",
+          "Tool Integration",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Jenkins"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Docker"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "DevOps Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Test Engineers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Release Engineers"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+    "image": "https://img.freepik.com/free-vector/website-development-web-page-programming-coding_277904-5103.jpg",
+    "name": "Full Stack Web Development",
+    "category_images": [
+      {
+        "name": "Frontend Basics",
+        "image": "https://img.freepik.com/free-vector/website-designer-concept-illustration_114360-4449.jpg"
+      },
+      {
+        "name": "CSS Frameworks",
+        "image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149052117.jpg"
+      },
+      {
+        "name": "Backend Development",
+        "image": "https://img.freepik.com/free-vector/server-concept-illustration_114360-5486.jpg"
+      },
+      {
+        "name": "JavaScript Frameworks",
+        "image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-743.jpg"
+      },
+      {
+        "name": "Database & API",
+        "image": "https://img.freepik.com/free-vector/api-concept-illustration_114360-9839.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "Frontend Web Development Fundamentals",
+        "logo_image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg",
+        "reviews": "320",
+        "students": "400",
+        "fee": "BDT 20,000",
+        "slogan": "Master Frontend Development with",
+        "duration": "3 Month",
+        "lecture": "36",
+        "projects": "12+",
+        "course_details": "Comprehensive introduction to frontend web development covering HTML5, CSS3, and JavaScript fundamentals.",
+        "course_overview": "Learn modern frontend development from scratch. Master HTML structure, CSS styling, and JavaScript programming for interactive websites.",
+        "course_curriculum": [
+          "HTML5 Fundamentals",
+          "Document Structure",
+          "Semantic Elements",
+          "Forms & Validation",
+          "CSS3 Basics",
+          "Box Model",
+          "Flexbox Layout",
+          "Grid System",
+          "Responsive Design",
+          "Media Queries",
+          "JavaScript Basics",
+          "DOM Manipulation",
+          "Event Handling",
+          "ES6+ Features",
+          "Async Programming",
+          "Local Storage",
+          "Web APIs",
+          "Developer Tools",
+          "Performance",
+          "Best Practices"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "VS Code"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Chrome DevTools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Beginners"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Web Designers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Frontend Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "Modern CSS Frameworks",
+        "logo_image": "https://img.freepik.com/free-vector/gradient-ui-ux-background_23-2149051191.jpg",
+        "reviews": "280",
+        "students": "350",
+        "fee": "BDT 22,000",
+        "slogan": "Master Modern CSS with",
+        "duration": "2 Month",
+        "lecture": "24",
+        "projects": "8+",
+        "course_details": "Learn popular CSS frameworks Bootstrap and Tailwind CSS for rapid and responsive web development.",
+        "course_overview": "Master modern CSS frameworks including Bootstrap 5 and Tailwind CSS. Build responsive and attractive websites efficiently.",
+        "course_curriculum": [
+          "Bootstrap Basics",
+          "Grid System",
+          "Components",
+          "Utilities",
+          "Responsive Design",
+          "Custom Themes",
+          "Tailwind Setup",
+          "Utility Classes",
+          "Components",
+          "Configuration",
+          "Customization",
+          "Optimization",
+          "Responsive Design",
+          "Dark Mode",
+          "Animation",
+          "Performance",
+          "Best Practices",
+          "Project Structure",
+          "Framework Integration",
+          "Deployment"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Bootstrap"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Tailwind CSS"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Frontend Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "UI Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Web Designers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Java Spring Full Stack Development",
+        "logo_image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1670.jpg",
+        "reviews": "260",
+        "students": "320",
+        "fee": "BDT 35,000",
+        "slogan": "Master Enterprise Development with",
+        "duration": "6 Month",
+        "lecture": "72",
+        "projects": "15+",
+        "course_details": "Complete Java Spring Framework course covering backend development, Spring Boot, and frontend integration.",
+        "course_overview": "Learn enterprise Java development with Spring Framework. Master Spring Boot, Spring MVC, and full-stack application development.",
+        "course_curriculum": [
+          "Spring Basics",
+          "Spring Boot",
+          "Spring MVC",
+          "REST APIs",
+          "Data Access",
+          "Security",
+          "Validation",
+          "Testing",
+          "Frontend Integration",
+          "Thymeleaf",
+          "Spring Data JPA",
+          "Database Design",
+          "Authentication",
+          "Authorization",
+          "Microservices",
+          "Cloud Deployment",
+          "Monitoring",
+          "Documentation",
+          "Best Practices",
+          "Production Setup"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "IntelliJ IDEA"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Spring Tools"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Java Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Backend Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "Python Django Web Development",
+        "logo_image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1213.jpg",
+        "reviews": "290",
+        "students": "360",
+        "fee": "BDT 30,000",
+        "slogan": "Build Modern Web Apps with",
+        "duration": "5 Month",
+        "lecture": "60",
+        "projects": "12+",
+        "course_details": "Comprehensive Django framework course covering backend development, database design, and frontend integration.",
+        "course_overview": "Master Python web development with Django. Learn MVT architecture, database management, and full-stack application development.",
+        "course_curriculum": [
+          "Django Basics",
+          "MVT Architecture",
+          "Models & ORM",
+          "Views",
+          "Templates",
+          "Forms",
+          "Authentication",
+          "Admin Interface",
+          "REST Framework",
+          "Database Design",
+          "Security",
+          "File Handling",
+          "Email Integration",
+          "Caching",
+          "Testing",
+          "Deployment",
+          "Performance",
+          "Best Practices",
+          "Production Setup",
+          "Maintenance"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "PyCharm"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "PostgreSQL"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Python Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Web Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 5,
+        "course_title": "ASP.NET Core Development",
+        "logo_image": "https://img.freepik.com/free-vector/programming-concept-illustration_114360-1325.jpg",
+        "reviews": "240",
+        "students": "300",
+        "fee": "BDT 32,000",
+        "slogan": "Build Enterprise Apps with",
+        "duration": "5 Month",
+        "lecture": "60",
+        "projects": "12+",
+        "course_details": "Complete ASP.NET Core course covering MVC, Web API, and modern web application development.",
+        "course_overview": "Learn enterprise web development with ASP.NET Core. Master MVC pattern, Web API development, and database integration.",
+        "course_curriculum": [
+          ".NET Core Basics",
+          "MVC Pattern",
+          "Razor Pages",
+          "Web API",
+          "Entity Framework",
+          "Identity",
+          "Security",
+          "Testing",
+          "Dependency Injection",
+          "Middleware",
+          "Configuration",
+          "Logging",
+          "Caching",
+          "Background Tasks",
+          "SignalR",
+          "Azure Deployment",
+          "Performance",
+          "Monitoring",
+          "Best Practices",
+          "DevOps"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Visual Studio"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "SQL Server"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": ".NET Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Backend Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+
+      {
+        "course_id": 6,
+        "course_title": "PHP Laravel Full Stack Development",
+        "logo_image": "https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg",
+        "reviews": "275",
+        "students": "340",
+        "fee": "BDT 28,000",
+        "slogan": "Build Modern Web Apps with",
+        "duration": "5 Month",
+        "lecture": "60",
+        "projects": "15+",
+        "course_details": "Comprehensive Laravel development course covering modern PHP practices, MVC architecture, and full-stack web application development.",
+        "course_overview": "Master Laravel framework from basics to advanced concepts. Learn modern PHP development, Blade templating, Eloquent ORM, and full application deployment.",
+        "course_curriculum": [
+          "PHP 8 Features",
+          "Laravel Basics",
+          "MVC Architecture",
+          "Blade Templates",
+          "Eloquent ORM",
+          "Database Design",
+          "Authentication",
+          "Authorization",
+          "API Development",
+          "Form Validation",
+          "File Handling",
+          "Queue System",
+          "Email Integration",
+          "Payment Gateway",
+          "Testing",
+          "Security Best Practices",
+          "Laravel Mix",
+          "Deployment",
+          "Performance Optimization",
+          "Server Management"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "PHP Storm"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "MySQL"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "PHP Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Web Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 7,
+        "course_title": "MERN Stack Development",
+        "logo_image": "https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-743.jpg",
+        "reviews": "310",
+        "students": "380",
+        "fee": "BDT 35,000",
+        "slogan": "Master Modern Web Development with",
+        "duration": "6 Month",
+        "lecture": "72",
+        "projects": "18+",
+        "course_details": "Complete MERN (MongoDB, Express.js, React.js, Node.js) stack development course for building modern web applications.",
+        "course_overview": "Learn end-to-end JavaScript development using the MERN stack. Master frontend and backend development, database management, and deployment.",
+        "course_curriculum": [
+          "JavaScript ES6+",
+          "React Fundamentals",
+          "React Hooks",
+          "Redux Toolkit",
+          "Node.js Basics",
+          "Express.js",
+          "MongoDB & Mongoose",
+          "REST API Design",
+          "Authentication/JWT",
+          "State Management",
+          "Real-time Features",
+          "File Upload",
+          "Payment Integration",
+          "Testing",
+          "Security",
+          "Performance",
+          "Docker Basics",
+          "AWS Deployment",
+          "CI/CD Pipeline",
+          "Monitoring"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "VS Code"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "MongoDB"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "JavaScript Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "React Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 8,
+        "course_title": "Modern Full Stack Development with React 19 & Next.js 15",
+        "logo_image": "https://img.freepik.com/free-vector/web-developers-courses-computer-programming-web-design-script-coding-study-computer-science-student-learning-interface-structure-components_335657-2542.jpg",
+        "reviews": "290",
+        "students": "350",
+        "fee": "BDT 40,000",
+        "slogan": "Build the Future of Web with",
+        "duration": "6 Month",
+        "lecture": "75",
+        "projects": "20+",
+        "course_details": "Advanced full-stack development course using the latest React 19 and Next.js 15 features for building modern web applications.",
+        "course_overview": "Master modern full-stack development with React 19 and Next.js 15. Learn server components, streaming, suspense, and advanced deployment strategies.",
+        "course_curriculum": [
+          "React 19 Features",
+          "Server Components",
+          "Client Components",
+          "Next.js 15 App Router",
+          "Server Actions",
+          "Streaming & Suspense",
+          "Data Fetching",
+          "Cache & Revalidation",
+          "Authentication",
+          "Database Integration",
+          "API Routes",
+          "Middleware",
+          "State Management",
+          "Performance Optimization",
+          "SEO & Metadata",
+          "Image Optimization",
+          "Internationalization",
+          "Testing Strategies",
+          "Deployment Options",
+          "Analytics Integration"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "VS Code"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Vercel"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "React Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Next.js Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Full Stack Developers"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 16,
+    "image": "https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg",
+    "name": "Mobile App Development",
+    "category_images": [
+      {
+        "name": "Android Development",
+        "image": "https://img.freepik.com/free-vector/mobile-app-development-concept-illustration_114360-7293.jpg"
+      },
+      {
+        "name": "iOS Development",
+        "image": "https://img.freepik.com/free-vector/app-development-concept-illustration_114360-5164.jpg"
+      },
+      {
+        "name": "Flutter",
+        "image": "https://img.freepik.com/free-vector/cross-platform-concept-illustration_114360-7293.jpg"
+      },
+      {
+        "name": "React Native",
+        "image": "https://img.freepik.com/free-vector/mobile-development-concept-illustration_114360-3551.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 1,
+        "course_title": "Android App Development with Java",
+        "logo_image": "https://img.freepik.com/free-vector/gradient-mobile-development-illustration_52683-83153.jpg",
+        "reviews": "280",
+        "students": "350",
+        "fee": "BDT 30,000",
+        "slogan": "Build Android Apps with",
+        "duration": "6 Month",
+        "lecture": "72",
+        "projects": "15+",
+        "course_details": "Comprehensive Android development course using Java. Learn to build professional Android applications from scratch to deployment.",
+        "course_overview": "Master Android app development with Java. Learn Android Studio, UI design, data storage, APIs, and publishing apps to Google Play Store.",
+        "course_curriculum": [
+          "Java Fundamentals",
+          "Android Studio",
+          "UI Design",
+          "Activity Lifecycle",
+          "Fragments",
+          "RecyclerView",
+          "Material Design",
+          "SQLite Database",
+          "Room Database",
+          "SharedPreferences",
+          "REST APIs",
+          "Firebase Integration",
+          "Maps Integration",
+          "Push Notifications",
+          "Camera & Sensors",
+          "App Publishing",
+          "Performance",
+          "Security",
+          "Testing",
+          "Monetization"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Android Studio"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Java JDK"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Java Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Android Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Mobile App Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 2,
+        "course_title": "iOS App Development",
+        "logo_image": "https://img.freepik.com/free-vector/app-development-illustration_52683-47931.jpg",
+        "reviews": "260",
+        "students": "320",
+        "fee": "BDT 35,000",
+        "slogan": "Create iOS Apps with",
+        "duration": "6 Month",
+        "lecture": "70",
+        "projects": "12+",
+        "course_details": "Complete iOS development course using Swift and SwiftUI. Learn to build modern iOS applications with the latest Apple technologies.",
+        "course_overview": "Master iOS app development with Swift and SwiftUI. Learn Xcode, UI design, data management, and publishing to the App Store.",
+        "course_curriculum": [
+          "Swift Programming",
+          "SwiftUI Basics",
+          "Xcode IDE",
+          "UI Components",
+          "Layout Design",
+          "Navigation",
+          "Data Management",
+          "Core Data",
+          "Networking",
+          "JSON Parsing",
+          "Authentication",
+          "Push Notifications",
+          "Maps & Location",
+          "Camera & Photos",
+          "App Store Connect",
+          "App Publishing",
+          "Performance",
+          "Testing",
+          "CI/CD",
+          "Analytics"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Xcode"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Swift"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Swift Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "iOS Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Mobile App Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 3,
+        "course_title": "Flutter App Development",
+        "logo_image": "https://img.freepik.com/free-vector/man-woman-working-app-development-landing-page_23-2148706844.jpg?ga=GA1.1.724683099.1731423728&semt=ais_hybrid",
+        "reviews": "300",
+        "students": "380",
+        "fee": "BDT 28,000",
+        "slogan": "Build Cross-Platform Apps with",
+        "duration": "5 Month",
+        "lecture": "60",
+        "projects": "15+",
+        "course_details": "Comprehensive Flutter development course for building cross-platform mobile applications. Learn Dart and Flutter framework.",
+        "course_overview": "Master Flutter app development from basics to advanced concepts. Learn Dart programming, widgets, state management, and deployment.",
+        "course_curriculum": [
+          "Dart Programming",
+          "Flutter Basics",
+          "Widget Tree",
+          "Layouts",
+          "Navigation",
+          "State Management",
+          "GetX",
+          "Provider",
+          "REST APIs",
+          "Firebase",
+          "Local Storage",
+          "Authentication",
+          "Maps Integration",
+          "Push Notifications",
+          "Custom Animations",
+          "App Publishing",
+          "Performance",
+          "Testing",
+          "CI/CD",
+          "Analytics"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Android Studio"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "VS Code"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Flutter Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Mobile App Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Cross-Platform Developers"
+          }
+        ]
+      },
+      {
+        "course_id": 4,
+        "course_title": "React Native with Expo Development",
+        "logo_image": "https://img.freepik.com/free-vector/mobile-app-development-concept-illustration_114360-3763.jpg",
+        "reviews": "270",
+        "students": "340",
+        "fee": "BDT 32,000",
+        "slogan": "Create Cross-Platform Apps with",
+        "duration": "5 Month",
+        "lecture": "65",
+        "projects": "14+",
+        "course_details": "Complete React Native development course using Expo framework. Learn to build cross-platform mobile apps with JavaScript.",
+        "course_overview": "Master React Native and Expo for mobile app development. Learn component-based architecture, native features, and deployment.",
+        "course_curriculum": [
+          "React Native Basics",
+          "Expo Framework",
+          "Component Design",
+          "Navigation",
+          "State Management",
+          "Redux Toolkit",
+          "API Integration",
+          "Local Storage",
+          "Firebase",
+          "Authentication",
+          "Push Notifications",
+          "Camera & Media",
+          "Maps & Location",
+          "Custom Hooks",
+          "Native Modules",
+          "App Publishing",
+          "Performance",
+          "Testing",
+          "CI/CD",
+          "Analytics"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "VS Code"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Expo CLI"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "React Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Mobile App Developers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Cross-Platform Developers"
+          }
+        ]
+      }
+    ]
   }
+      
   ];
 
 export default categoryList;
