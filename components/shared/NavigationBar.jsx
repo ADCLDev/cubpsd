@@ -35,7 +35,7 @@ const NavigationBar = () => {
                 {/* Logo - Now always visible and left-aligned */}
                 <div className="flex-1">
                   <span onClick={() => router.push("/")} className="text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-wider hover:text-yellow-200 transition-colors duration-300 cursor-pointer">
-                    PSD
+                    Professional SKill Development Center
                   </span>
                 </div>
 
