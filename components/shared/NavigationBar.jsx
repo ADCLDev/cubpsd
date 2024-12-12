@@ -34,9 +34,10 @@ const NavigationBar = () => {
               <div className="w-full navbar justify-between px-0"> {/* Added justify-between */}
                 {/* Logo - Now always visible and left-aligned */}
                 <div className="flex-1">
-                  <span onClick={() => router.push("/")} className="text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-wider hover:text-yellow-200 transition-colors duration-300 cursor-pointer">
-                    Professional SKill Development Center
-                  </span>
+                  {/* <span onClick={() => router.push("/")} className="text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-wider hover:text-yellow-200 transition-colors duration-300 cursor-pointer">
+                    CUB
+                  </span> */}
+                  <img src='/logo.svg'></img>
                 </div>
 
                 {/* Desktop Menu */}
