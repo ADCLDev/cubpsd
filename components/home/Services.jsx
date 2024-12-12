@@ -24,11 +24,11 @@ const Services = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 py-10 gap-5">
         <Link href={`/category/all`}>
-          <div className="flex flex-col max-w-md h-[440px] md:h-[400px] mx-auto p-8 bg-red-500 text-white rounded-3xl shadow-lg">
+          <div className="flex flex-col max-w-md h-[440px] md:h-[400px] mx-auto p-8 bg-red-700 text-white rounded-3xl shadow-lg">
             <div className="flex justify-center mb-6">
               <div className="flex items-center text-3xl font-bold">
-                <FaBook className="mr-2 text-3xl" />
-                <span>IT Training</span>
+                <FaBook className="mr-2 text-3xl text-yellow-300" />
+                <span className='text-yellow-300'>IT Training</span>
               </div>
             </div>
             <p className="mb-6 text-lg">
@@ -43,11 +43,11 @@ const Services = () => {
           </div>
         </Link>
 
-        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-red-600 text-white rounded-3xl shadow-lg">
+        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-red-700 text-white rounded-3xl shadow-lg">
           <div className="flex justify-center mb-6">
             <div className="flex items-center text-3xl font-bold">
-              <FaLanguage className="mr-2 text-3xl" />
-              <span>Language</span>
+              <FaLanguage className="mr-2 text-3xl text-yellow-300" />
+              <span className='text-yellow-300'>Language</span>
             </div>
           </div>
           <p className="mb-6 text-lg">
@@ -67,8 +67,8 @@ const Services = () => {
         <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-red-700 text-white rounded-3xl shadow-lg">
           <div className="flex justify-center mb-6">
             <div className="flex items-center text-3xl font-bold">
-              <FaGraduationCap className="mr-2 text-3xl" />
-              <span>Exams</span>
+              <FaGraduationCap className="mr-2 text-3xl text-yellow-300" />
+              <span className='text-yellow-300'>Exams</span>
             </div>
           </div>
           <p className="mb-6 text-lg">
