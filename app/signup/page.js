@@ -3,7 +3,7 @@ import { useState } from 'react';
 // import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { signup } from '@/utils/api';
+import { signup } from '../../utils/api';
 
 const Signup = () => {
   const [name, setName] = useState('');

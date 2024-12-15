@@ -1,5 +1,5 @@
-import AboutUsPanel from '@/components/AboutUsPanel'
-import Counts from '@/components/home/Counts'
+import AboutUsPanel from '../../components/AboutUsPanel'
+import Counts from '../../components/home/Counts'
 import Image from 'next/image'
 import React from 'react'
 

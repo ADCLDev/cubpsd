@@ -1,7 +1,7 @@
 'use client';
 import { fetchAllCoursesByCategory } from '../utils/api';
 import { useEffect, useState } from 'react';
-import CourseCard from '@/components/shared/CourseCard';
+import CourseCard from '../components/shared/CourseCard';
 import { usePathname } from 'next/navigation';
 
 const CategoryCourses = (category) => {

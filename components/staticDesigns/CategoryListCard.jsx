@@ -2,7 +2,7 @@ import React from 'react';
 import Image from "next/image";
 import Link from "next/link";
 
-import categoryList from "@/components/StaticData/CourseList";
+import categoryList from "../StaticData/CourseList";
 import freeCategoryList from '../StaticData/FreeCousrseList';
 
 const CategoryListCard = ({type}) => {

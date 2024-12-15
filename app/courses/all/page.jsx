@@ -1,4 +1,4 @@
-import HomeCourses from "@/components/home/HomeCourses";
+import HomeCourses from "../../../components/home/HomeCourses";
 import Image from "next/image";
 
 const Courses = () => {

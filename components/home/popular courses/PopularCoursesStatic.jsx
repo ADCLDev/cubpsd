@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
-import CourseCardStatic from "@/components/shared/CourseCardStatic";
-import categoryList from "@/components/StaticData/CourseList";
+import CourseCardStatic from "../../../components/shared/CourseCardStatic";
+import categoryList from "../../../components/StaticData/CourseList";
 import Image from "next/image";
 
 

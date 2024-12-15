@@ -1,4 +1,4 @@
-import CourseDetail from '@/components/shared/CourseDetail'
+import CourseDetail from '../../../components/shared/CourseDetail'
 import React from 'react'
 
 const Details = () => {

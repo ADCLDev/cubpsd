@@ -2,7 +2,7 @@
 import { useState } from 'react';
 import Link from 'next/link';
 import { motion } from 'framer-motion';
-import { login } from '@/utils/api';
+import { login } from '../../utils/api';
 import { useRouter } from 'next/navigation';
 
 const Login = () => {

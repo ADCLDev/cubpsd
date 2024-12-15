@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import { usePathname } from 'next/navigation';
-import CourseCard from '@/components/shared/CourseCard';
+import CourseCard from '../../components/shared/CourseCard';
 import { fetchCategories, fetchAllCategoriesWithCourses } from '../../utils/api';
 
 const HomeCourses = () => {

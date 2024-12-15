@@ -1,4 +1,4 @@
-import CourseCard from "@/components/shared/CourseCard";
+import CourseCard from "../../../components/shared/CourseCard";
 
 
 const CourseList = () => {

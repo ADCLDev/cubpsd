@@ -1,10 +1,10 @@
 'use client';
-import CategoryCourses from "@/components/CategoryCourses";
+import CategoryCourses from "../../../components/staticDesigns/CategoryCoursesStatic";
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, useEffect } from "react";
-import { fetchCategoryById } from "@/utils/api";
+import { fetchCategoryById } from "../../../utils/api";
 
 const Courses = () => {
   const [category, setCategory] = useState(null);

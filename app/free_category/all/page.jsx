@@ -1,6 +1,6 @@
-import freeCategoryList from "@/components/StaticData/FreeCousrseList";
-import CategoryListCard from "@/components/staticDesigns/CategoryListCard";
-import CategoryCoursesStatic from "@/components/staticDesigns/CategoryCoursesStatic";
+import freeCategoryList from "../../../components/StaticData/FreeCousrseList";
+import CategoryListCard from "../../../components/staticDesigns/CategoryListCard";
+import CategoryCoursesStatic from "../../../components/staticDesigns/CategoryCoursesStatic";
 
 const FreeAllCourses = () => {
 

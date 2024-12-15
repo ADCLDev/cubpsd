@@ -1,4 +1,4 @@
-import CourseCardStatic from "@/components/shared/CourseCardStatic";
+import CourseCardStatic from "../../components/shared/CourseCardStatic";
 
 const CategoryCoursesStatic = ({ type, category, courses }) => {
   return (

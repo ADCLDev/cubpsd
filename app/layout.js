@@ -1,10 +1,10 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
-import SecondaryBar from "@/components/shared/SecondaryBar";
-import Footer from "@/components/shared/Footer";
-import NavigationBar from "@/components/shared/NavigationBar";
-import MessageLinks from "@/components/MessageLinks";
-import Socials from '@/components/Socials';
+import SecondaryBar from "../components/shared/SecondaryBar";
+import Footer from "../components/shared/Footer";
+import NavigationBar from "../components/shared/NavigationBar";
+import MessageLinks from "../components/MessageLinks";
+import Socials from '../components/Socials';
 
 const inter = Inter({ subsets: ["latin"] });
 

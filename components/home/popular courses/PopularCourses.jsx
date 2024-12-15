@@ -1,7 +1,7 @@
 "use client";
 import { useState, useEffect } from "react";
 import { fetchPopularCategories, fetchPopularCourses } from "../../../utils/api";
-import CourseCard from "@/components/shared/CourseCard";
+import CourseCard from "../../../components//shared/CourseCard";
 
 const PopularCourses = () => {
   const [categories, setCategories] = useState([]);

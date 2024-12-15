@@ -1,6 +1,6 @@
-import categoryList from "@/components/StaticData/CourseList";
-import CategoryListCard from "@/components/staticDesigns/CategoryListCard";
-import CategoryCoursesStatic from "@/components/staticDesigns/CategoryCoursesStatic";
+import categoryList from "../../../components/StaticData/CourseList";
+import CategoryListCard from "../../../components/staticDesigns/CategoryListCard";
+import CategoryCoursesStatic from "../../../components/staticDesigns/CategoryCoursesStatic";
 
 const AllCourses = () => {
 

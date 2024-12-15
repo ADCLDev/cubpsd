@@ -1,10 +1,10 @@
 'use client';
 import { usePathname } from 'next/navigation';
 import React from 'react';
-import categoryList from '@/components/StaticData/CourseList';
+import categoryList from '../../../../../components/StaticData/CourseList';
 import { MdCheckBoxOutlineBlank } from "react-icons/md";
 import { FaRegCircle } from "react-icons/fa";
-import AdmissionStatic from '@/components/staticDesigns/AdmissionStatic';
+import AdmissionStatic from '../../../../../components/staticDesigns/AdmissionStatic';
 import Image from "next/image";
 
 const page = () => {
