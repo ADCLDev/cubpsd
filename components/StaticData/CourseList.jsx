@@ -6510,6 +6510,563 @@ const categoryList = [
         ]
       }
     ]
+  },
+
+  {
+    "id": 17,
+    "image": "https://img.freepik.com/free-vector/successful-business-man-holding-trophy_1150-35042.jpg",
+    "name": "Freelancing",
+    "category_images": [
+      {
+        "name": "Digital Marketing",
+        "image": "https://img.freepik.com/free-vector/digital-marketing-team-with-laptops-light-bulb-marketing-team-metrics-marketing-team-lead-responsibilities-concept_335657-258.jpg"
+      },
+      {
+        "name": "Content Writing",
+        "image": "https://img.freepik.com/free-vector/content-writing-concept-illustration_114360-7017.jpg"
+      },
+      {
+        "name": "Graphics Design",
+        "image": "https://img.freepik.com/free-vector/graphic-design-concept-illustration_114360-2198.jpg"
+      },
+      {
+        "name": "Virtual Assistant",
+        "image": "https://img.freepik.com/free-vector/virtual-assistant-concept-illustration_114360-5532.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 5,
+        "course_title": "LinkedIn Profile Optimization",
+        "logo_image": "https://img.freepik.com/free-vector/social-tree-concept-illustration_114360-4898.jpg",
+        "reviews": "310",
+        "students": "420",
+        "fee": "BDT 8,000",
+        "slogan": "Build Your Professional Brand with",
+        "duration": "1 Month",
+        "lecture": "12",
+        "projects": "5+",
+        "course_details": "Master LinkedIn profile optimization to showcase your professional brand and attract clients. Learn proven strategies for networking and lead generation on LinkedIn.",
+        "course_overview": "Learn to create a compelling LinkedIn presence that attracts clients and opportunities. Master networking strategies and content creation for professional growth.",
+        "course_curriculum": [
+          "Professional Photo Selection",
+          "Headline Optimization",
+          "About Section Writing",
+          "Experience Highlighting",
+          "Skills Optimization",
+          "Endorsements Strategy",
+          "Recommendations Management",
+          "Content Creation",
+          "Network Building",
+          "Lead Generation",
+          "LinkedIn Algorithm",
+          "Engagement Strategies",
+          "Personal Branding",
+          "Profile Analytics",
+          "Company Page Setup",
+          "LinkedIn Articles",
+          "Group Participation",
+          "Connection Strategy",
+          "Premium Features",
+          "LinkedIn SSI Score"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "LinkedIn"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Canva"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Freelancers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Job Seekers"
+          }
+        ]
+      },
+      {
+        "course_id": 6,
+        "course_title": "Upwork Success Strategy",
+        "logo_image": "https://img.freepik.com/free-vector/business-team-putting-together-jigsaw-puzzle-isolated-flat-illustration_74855-11112.jpg",
+        "reviews": "380",
+        "students": "460",
+        "fee": "BDT 12,000",
+        "slogan": "Master Upwork Freelancing with",
+        "duration": "2 Month",
+        "lecture": "24",
+        "projects": "8+",
+        "course_details": "Comprehensive guide to building a successful freelancing career on Upwork. Learn proven strategies for profile optimization, winning proposals, and client management.",
+        "course_overview": "Master Upwork platform mechanics, bidding strategies, and client relationship management. Learn to build a sustainable income through Upwork freelancing.",
+        "course_curriculum": [
+          "Upwork Profile Creation",
+          "Portfolio Development",
+          "Proposal Writing",
+          "Job Search Strategy",
+          "Pricing Models",
+          "Client Communication",
+          "Contract Management",
+          "Time Tracking",
+          "Payment Protection",
+          "Dispute Resolution",
+          "Top Rated Status",
+          "JSS Optimization",
+          "Feedback Management",
+          "Project Milestones",
+          "Enterprise Clients",
+          "Rising Talent",
+          "Success Metrics",
+          "Agency Account",
+          "Project Catalog",
+          "Profile Analytics"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Upwork"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Time Doctor"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Freelancers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Digital Professionals"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Service Providers"
+          }
+        ]
+      },
+      {
+        "course_id": 7,
+        "course_title": "Fiverr Gig Success",
+        "logo_image": "https://img.freepik.com/free-vector/team-success-concept-illustration_114360-1526.jpg",
+        "reviews": "350",
+        "students": "430",
+        "fee": "BDT 10,000",
+        "slogan": "Create Successful Fiverr Gigs with",
+        "duration": "2 Month",
+        "lecture": "24",
+        "projects": "6+",
+        "course_details": "Master the art of creating and managing successful Fiverr gigs. Learn gig optimization, pricing strategy, and buyer psychology for maximum sales.",
+        "course_overview": "Learn to create high-converting Fiverr gigs, optimize your profile, and deliver exceptional service. Master the techniques for becoming a Top Rated Seller.",
+        "course_curriculum": [
+          "Profile Optimization",
+          "Gig Creation",
+          "Keyword Research",
+          "Gig Description",
+          "Service Packaging",
+          "Pricing Strategy",
+          "Gig Images",
+          "Gig Video",
+          "Custom Offers",
+          "Order Management",
+          "Buyer Messages",
+          "Revision Handling",
+          "Level Progression",
+          "Analytics Understanding",
+          "Repeat Buyers",
+          "Cross-selling",
+          "Promotion Tools",
+          "Buyer Requests",
+          "Pro Gig Status",
+          "Business Tools"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Fiverr"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Canva"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Freelancers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Digital Service Providers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Creative Professionals"
+          }
+        ]
+      },
+      {
+        "course_id": 8,
+        "course_title": "Freelancer.com Mastery",
+        "logo_image": "https://img.freepik.com/free-vector/business-team-brainstorm-idea-lightbulb-human-head-team-working-growth-mindset-flat-vector-illustration-business-meeting-partnership-concept-banner-website-design-landing-web-page_74855-24364.jpg",
+        "reviews": "290",
+        "students": "380",
+        "fee": "BDT 11,000",
+        "slogan": "Win Projects on Freelancer.com with",
+        "duration": "2 Month",
+        "lecture": "24",
+        "projects": "7+",
+        "course_details": "Complete guide to building a successful career on Freelancer.com. Learn bidding strategies, project management, and client satisfaction techniques.",
+        "course_overview": "Master the Freelancer.com platform mechanics and learn to win projects consistently. Develop skills for long-term success and sustainable income.",
+        "course_curriculum": [
+          "Platform Overview",
+          "Profile Setup",
+          "Skills Verification",
+          "Bid Writing",
+          "Project Search",
+          "Budget Planning",
+          "Milestone Creation",
+          "Time Management",
+          "Quality Delivery",
+          "Communication Skills",
+          "Dispute Handling",
+          "Payment Systems",
+          "Profile Ranking",
+          "Exam Certification",
+          "Contest Participation",
+          "Project Showcase",
+          "Client Retention",
+          "Platform Tools",
+          "Premium Features",
+          "Success Metrics"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Freelancer.com"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Desktop App"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Freelancers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Project Managers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Digital Professionals"
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 18,
+    "image": "https://img.freepik.com/free-vector/project-management-business-multitasking-concept_74855-7264.jpg",
+    "name": "Project Management",
+    "category_images": [
+      {
+        "name": "PMP Certification",
+        "image": "https://img.freepik.com/free-vector/business-planning-concept-illustration_114360-1510.jpg"
+      },
+      {
+        "name": "CAPM Certification",
+        "image": "https://img.freepik.com/free-vector/team-goals-concept-illustration_114360-5176.jpg"
+      },
+      {
+        "name": "PRINCE2",
+        "image": "https://img.freepik.com/free-vector/project-management-concept-illustration_114360-1682.jpg"
+      },
+      {
+        "name": "Agile Management",
+        "image": "https://img.freepik.com/free-vector/agile-concept-illustration_114360-7347.jpg"
+      }
+    ],
+    "courses": [
+      {
+        "course_id": 9,
+        "course_title": "PMP® Certification Preparation",
+        "logo_image": "https://img.freepik.com/free-vector/business-planning-concept-illustration_114360-1510.jpg",
+        "reviews": "450",
+        "students": "580",
+        "fee": "BDT 45,000",
+        "slogan": "Become PMP Certified with",
+        "duration": "6 Month",
+        "lecture": "72",
+        "projects": "15+",
+        "course_details": "Comprehensive PMP preparation course aligned with PMI's PMBOK® Guide. Covers all knowledge areas and prepares you for the PMP certification exam with real-world project management practices.",
+        "course_overview": "Master project management concepts, methodologies, and best practices required for PMP certification. Course includes exam preparation materials, practice tests, and hands-on projects.",
+        "course_curriculum": [
+          "Project Integration Management",
+          "Project Scope Management",
+          "Project Schedule Management",
+          "Project Cost Management",
+          "Project Quality Management",
+          "Project Resource Management",
+          "Project Communications",
+          "Project Risk Management",
+          "Project Procurement",
+          "Project Stakeholder Management",
+          "Agile Project Management",
+          "Professional Responsibility",
+          "Project Framework",
+          "Project Environment",
+          "Role of Project Manager",
+          "Project Documentation",
+          "Change Management",
+          "Earned Value Management",
+          "Risk Analysis",
+          "Stakeholder Engagement"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "MS Project"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Jira"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Experienced Project Managers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Team Leaders"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Program Managers"
+          }
+        ]
+      },
+      {
+        "course_id": 10,
+        "course_title": "CAPM® Certification Preparation",
+        "logo_image": "https://img.freepik.com/free-vector/team-goals-concept-illustration_114360-5176.jpg",
+        "reviews": "320",
+        "students": "420",
+        "fee": "BDT 25,000",
+        "slogan": "Start Your PM Career with",
+        "duration": "3 Month",
+        "lecture": "36",
+        "projects": "10+",
+        "course_details": "Comprehensive preparation course for PMI's Certified Associate in Project Management (CAPM)® certification. Perfect for those starting their project management career.",
+        "course_overview": "Learn fundamental project management concepts based on PMBOK® Guide. Prepare for CAPM certification while building practical project management skills.",
+        "course_curriculum": [
+          "PM Fundamentals",
+          "Project Life Cycle",
+          "Project Charter",
+          "Work Breakdown Structure",
+          "Project Scheduling",
+          "Resource Allocation",
+          "Cost Estimation",
+          "Risk Assessment",
+          "Quality Management",
+          "Team Leadership",
+          "Communication Plans",
+          "Stakeholder Analysis",
+          "Project Tools",
+          "Documentation",
+          "Progress Tracking",
+          "Issue Management",
+          "Change Control",
+          "Performance Metrics",
+          "Project Closure",
+          "Lessons Learned"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "MS Project"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Trello"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Project Team Members"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Entry-Level PMs"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Students"
+          }
+        ]
+      },
+      {
+        "course_id": 11,
+        "course_title": "PRINCE2® Foundation and Practitioner",
+        "logo_image": "https://img.freepik.com/free-vector/project-management-concept-illustration_114360-1682.jpg",
+        "reviews": "380",
+        "students": "460",
+        "fee": "BDT 35,000",
+        "slogan": "Master PRINCE2 Methodology with",
+        "duration": "4 Month",
+        "lecture": "48",
+        "projects": "12+",
+        "course_details": "Comprehensive PRINCE2® certification preparation covering both Foundation and Practitioner levels. Learn process-based project management methodology widely used in government and private sectors.",
+        "course_overview": "Master PRINCE2 principles, themes, and processes. Prepare for both Foundation and Practitioner certification exams while learning practical application.",
+        "course_curriculum": [
+          "PRINCE2 Overview",
+          "Seven Principles",
+          "Seven Themes",
+          "Seven Processes",
+          "Business Case",
+          "Organization Theme",
+          "Quality Theme",
+          "Plans Theme",
+          "Risk Theme",
+          "Change Theme",
+          "Progress Theme",
+          "Starting Up Project",
+          "Directing Project",
+          "Initiating Project",
+          "Controlling Stage",
+          "Managing Delivery",
+          "Stage Boundaries",
+          "Closing Project",
+          "Tailoring PRINCE2",
+          "Exam Preparation"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "PRINCE2 Tools"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Project Documentation"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Project Managers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Team Leaders"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Business Analysts"
+          }
+        ]
+      },
+      {
+        "course_id": 12,
+        "course_title": "Agile Project Management Professional",
+        "logo_image": "https://img.freepik.com/free-vector/agile-method-concept-illustration_114360-7147.jpg",
+        "reviews": "400",
+        "students": "520",
+        "fee": "BDT 30,000",
+        "slogan": "Master Agile Methodology with",
+        "duration": "4 Month",
+        "lecture": "48",
+        "projects": "15+",
+        "course_details": "Comprehensive Agile project management course covering Scrum, Kanban, and other Agile frameworks. Prepare for PMI-ACP® certification while mastering Agile principles and practices. Learn to lead Agile teams and deliver successful projects using Agile methodologies.",
+        "course_overview": "Master Agile project management from theory to practice. Learn multiple Agile frameworks, tools, and techniques while preparing for professional certification. Includes hands-on experience with Agile tools and real-world project simulations.",
+        "course_curriculum": [
+          "Agile Fundamentals",
+          "Scrum Framework",
+          "Kanban Method",
+          "Lean Principles",
+          "Sprint Planning",
+          "Daily Stand-ups",
+          "Sprint Reviews",
+          "Sprint Retrospectives",
+          "User Stories",
+          "Story Point Estimation",
+          "Release Planning",
+          "Velocity Tracking",
+          "Burndown Charts",
+          "Agile Leadership",
+          "Team Facilitation",
+          "Continuous Integration",
+          "DevOps Basics",
+          "Scaled Agile",
+          "Agile Tools Mastery",
+          "PMI-ACP® Preparation"
+        ],
+        "software": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662369297.png",
+            "name": "Jira"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293143.png",
+            "name": "Trello"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662293144.png",
+            "name": "Confluence"
+          }
+        ],
+        "design_for": [
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371418.png",
+            "name": "Project Managers"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371439.png",
+            "name": "Scrum Masters"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371456.png",
+            "name": "Product Owners"
+          },
+          {
+            "icon": "https://www.creativeitinstitute.com/images/option/option1662371457.png",
+            "name": "Development Team Leads"
+          }
+        ],
+        "job_position": [
+          {
+            "name": "Agile Project Manager"
+          },
+          {
+            "name": "Scrum Master"
+          },
+          {
+            "name": "Product Owner"
+          },
+          {
+            "name": "Agile Coach"
+          },
+          {
+            "name": "Delivery Manager"
+          }
+        ]
+      }
+    ]
   }
       
   ];

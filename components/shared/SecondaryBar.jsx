@@ -34,7 +34,7 @@ const SecondaryBar = () => {
               whileTap={{ scale: 0.95 }}
             >
               <FaPhoneAlt className="mr-2" />
-              <span className="text-sm font-semibold hidden lg:flex">01755557150</span>
+              <span className="text-sm font-semibold hidden lg:flex">01974955226</span>
             </motion.a>
             <motion.a
               href="mailto:dilal328@gmail.com"
@@ -43,7 +43,7 @@ const SecondaryBar = () => {
               whileTap={{ scale: 0.95 }}
             >
               <MdEmail className="mr-2" />
-              <span className="text-sm font-semibold hidden lg:flex">contact@revolutiontech.zone</span>
+              <span className="text-sm font-semibold hidden lg:flex">contact@cubspdc.com</span>
             </motion.a>
           </motion.div>
           <motion.div
