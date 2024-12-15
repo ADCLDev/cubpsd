@@ -5,7 +5,7 @@ const Providing = () => {
     return (
         <div className="flex flex-col gap-5 mx-2 lg:mx-auto lg:max-w-4xl xl:max-w-7xl py-10">
             
-            <div className="flex flex-col lg:flex-row items-center gap-5 lg:gap-20 py-10 lg:p-10 bg-red-600 text-white rounded-3xl">
+            <div className="flex flex-col lg:flex-row items-center gap-5 lg:gap-20 py-10 lg:p-10 bg-wine-600 text-white rounded-3xl">
     <div className="w-full lg:w-1/3">
         <Image width={500} height={500} className="p-3" src="https://images-dom.prod.aws.idp-connect.com/commimg/myhotcourses/blog/post/myhc_69446.jpg" alt="" />
     </div>
@@ -20,7 +20,7 @@ const Providing = () => {
 </div>
 
 
-<div className="flex flex-col lg:flex-row items-center gap-5 lg:gap-20 py-10 lg:p-10 bg-red-800 text-white rounded-3xl">
+<div className="flex flex-col lg:flex-row items-center gap-5 lg:gap-20 py-10 lg:p-10 bg-wine-800 text-white rounded-3xl">
 
     <div className="flex flex-col gap-3 w-full p-5 lg:p-0 lg:w-1/2">
         <h1 className="font-bold text-3xl lg:text-5xl">Renowned IT Experts At your Service</h1>

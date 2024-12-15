@@ -1,4 +1,5 @@
 'use client';
+
 import React from 'react';
 import { IoBookOutline } from "react-icons/io5";
 import { useRouter } from "next/navigation";
@@ -25,24 +26,32 @@ const NavigationBar = () => {
 
   return (
     <>
-      <div className="bg-gradient-to-r from-red-500 via-red-600 to-red-800 font-bold text-white sticky top-0 z-50">
+      <div className="bg-[#a50d35] font-bold text-white sticky top-0 z-50">
         <div className="mx-auto px-4 lg:max-w-4xl xl:max-w-7xl">
           <div className="drawer">
             <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
             <div className="drawer-content flex flex-col">
               {/* Navbar */}
-              <div className="w-full navbar justify-between px-0"> {/* Added justify-between */}
-                {/* Logo - Now always visible and left-aligned */}
-                <div className="flex-1">
-                  {/* <span onClick={() => router.push("/")} className="text-2xl md:text-3xl lg:text-4xl font-extrabold tracking-wider hover:text-yellow-200 transition-colors duration-300 cursor-pointer">
-                    CUB
-                  </span> */}
-                  <img src='/logo.svg'></img>
+              <div className="w-full navbar px-0">
+                {/* Left Logo */}
+                <Link href='/'>
+                  <div className="w-24 md:w-32">
+                    <img src='/logo.svg' alt="Left Logo" className="w-full h-auto" />
+                  </div>
+                </Link>
+
+                {/* Mobile Menu Button */}
+                <div className="flex-1 justify-end md:hidden">
+                  <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost text-white">
+                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block w-6 h-6 stroke-current">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path>
+                    </svg>
+                  </label>
                 </div>
 
-                {/* Desktop Menu */}
-                <div className="hidden lg:flex lg:flex-none">
-                  <ul className="flex items-center gap-6 lg:text-base xl:text-lg">
+                {/* Desktop Menu - Centered */}
+                <div className="hidden md:flex flex-1 justify-center">
+                  <ul className="flex items-center gap-6 text-base">
                     <li>
                       <Link href="/" className="text-white hover:text-yellow-200 transition-colors">
                         Home
@@ -54,7 +63,7 @@ const NavigationBar = () => {
                       <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors">
                         About Us
                       </span>
-                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1">
+                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50">
                         <li>
                           <Link href="/about_us" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
                             Mission and Vision
@@ -79,7 +88,7 @@ const NavigationBar = () => {
                       <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors">
                         Work Placement
                       </span>
-                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1">
+                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50">
                         <li>
                           <Link href="/job_placement" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
                             Job Placement
@@ -104,8 +113,7 @@ const NavigationBar = () => {
                       </Link>
                     </li>
 
-                    {/* Action Buttons */}
-                    <div className="flex items-center gap-3 ml-4">
+                    <li>
                       <button 
                         onClick={() => router.push("/category/all")}
                         className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
@@ -113,38 +121,30 @@ const NavigationBar = () => {
                         <IoBookOutline />
                         Courses
                       </button>
+                    </li>
 
-                      <button
-                        onClick={() => setOpenPaymentModal(true)}
+                    <li>
+                      <button 
+                        onClick={() => router.push("/pgd")}
                         className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
                       >
-                        <FaMoneyBillWave />
-                        Pay
+                        <IoBookOutline />
+                        PGD
                       </button>
-
-                      <button
-                        onClick={() => router.push("/login")}
-                        className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
-                      >
-                        <MdLogin />
-                        Login
-                      </button>
-                    </div>
+                    </li>
                   </ul>
                 </div>
 
-                {/* Mobile Menu Button - Now right-aligned */}
-                <div className="lg:hidden">
-                  <label htmlFor="my-drawer-3" className="btn btn-square btn-ghost text-white">
-                    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block w-6 h-6 stroke-current">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                    </svg>
-                  </label>
-                </div>
+                {/* Right Logo */}
+                <Link href="https://www.cub.edu.bd/">
+                  <div className="w-24 md:w-32">
+                    <img src='/cub-logo-w.svg' alt="Right Logo" className="w-full h-auto" />
+                  </div>
+                </Link>
               </div>
             </div>
 
-            {/* Mobile Sidebar */}
+            {/* Mobile Sidebar - Keep existing code */}
             <div className="drawer-side">
               <label htmlFor="my-drawer-3" className="drawer-overlay"></label>
               <div className="w-80 min-h-full bg-gradient-to-r from-red-500 via-red-600 to-red-800">
@@ -165,28 +165,17 @@ const NavigationBar = () => {
                         className="w-full bg-white text-red-600 rounded-lg flex items-center gap-2 hover:bg-gray-50"
                       >
                         <IoBookOutline className="text-xl" />
-                        Browse Courses
+                        Browse SKill Courses
                       </button>
                     </li>
-                    
                     <li>
                       <button 
-                        onClick={() => setOpenPaymentModal(true)} 
+                        onClick={() => router.push("/category/all")} 
                         className="w-full bg-white text-red-600 rounded-lg flex items-center gap-2 hover:bg-gray-50"
                       >
-                        <FaMoneyBillWave className="text-xl" />
-                        Make Payment
+                        <IoBookOutline className="text-xl" />
+                        Browse PGD Courses
                       </button>
-                    </li>
-                    
-                    <li>
-                      <Link 
-                        href="/login"
-                        className="w-full bg-white text-red-600 rounded-lg flex items-center gap-2 hover:bg-gray-50"
-                      >
-                        <MdLogin className="text-xl" />
-                        Login
-                      </Link>
                     </li>
                   </div>
                 </ul>
@@ -196,7 +185,7 @@ const NavigationBar = () => {
         </div>
       </div>
 
-      {/* Payment Modal */}
+      {/* Payment Modal - Keep existing code */}
       {openPaymentModal && (
         <div className="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50">
           <div className="bg-white rounded-lg p-6 w-96 max-w-md mx-4">

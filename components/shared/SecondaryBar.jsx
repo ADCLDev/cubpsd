@@ -3,39 +3,48 @@
 import React from 'react';
 import { MdEmail, MdLogin } from "react-icons/md";
 import { FaPhoneAlt } from "react-icons/fa";
+import Link from 'next/link';
 
 const SecondaryBar = () => {
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: { opacity: 1, transition: { duration: 0.5, ease: "easeOut" } },
-  };
-
-  const itemVariants = {
-    hidden: { opacity: 0, y: -10 },
-    visible: { opacity: 1, y: 0, transition: { duration: 0.3, ease: "easeOut" } },
-  };
-
   return (
-    <div className="bg-white text-black">
+    <div className="bg-white text-black relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between py-3">
+          {/* Left Side - Phone & Email */}
           <div className="flex items-center space-x-6">
             <a
-              href="tel:01886349919"
+              href="tel:01974955226"
               className="flex items-center text-black hover:text-[#A93226] transition duration-300"
             >
               <FaPhoneAlt className="mr-2" />
-              <span className="text-sm font-semibold hidden lg:flex">01974955226</span>
+              <span className="text-sm font-semibold hidden lg:inline">01974955226</span>
             </a>
             <a
-              href="mailto:dilal328@gmail.com"
+              href="mailto:contact@cubspdc.com"
               className="flex items-center text-black hover:text-[#A93226] transition duration-300"
             >
               <MdEmail className="mr-2" />
-              <span className="text-sm font-semibold hidden lg:flex">contact@cubspdc.com</span>
+              <span className="text-sm font-semibold hidden lg:inline">contact@cubspdc.com</span>
             </a>
           </div>
-          <div className="flex items-center justify-end">
+
+          {/* Middle Ticker */}
+          <Link href='/category/all'>
+            <div className="flex-1 mx-6 overflow-hidden">
+              <div className="ticker-wrapper">
+                <div className="ticker">
+                  <span>APPLY NOW • &nbsp;</span>
+                  <span>APPLY NOW • &nbsp;</span>
+                  <span>APPLY NOW • &nbsp;</span>
+                  <span>APPLY NOW • &nbsp;</span>
+                  <span>APPLY NOW • &nbsp;</span>
+                </div>
+              </div>
+            </div>
+          </Link>
+
+          {/* Right Side - Login */}
+          <div className="flex items-center">
             {/* Mobile Login Icon */}
             <a
               href="/login"
@@ -47,20 +56,58 @@ const SecondaryBar = () => {
             {/* Desktop Login Button */}
             <a
               href="/login"
-              className="bg-black text-white font-semibold py-2 px-4 rounded-full shadow-md hover:bg-slate-700 transition duration-300 hidden lg:flex"
+              className="bg-black text-white font-semibold py-2 px-4 rounded-full shadow-md hover:bg-slate-700 transition duration-300 hidden lg:flex items-center"
             >
-              <button className="flex text-md font-semibold text-white">
-                <span className="text-xl">
-                  <MdLogin />
-                </span>
-                <span className="px-1">
-                  Login
-                </span>
-              </button>
+              <MdLogin className="mr-1" />
+              <span>Login</span>
             </a>
           </div>
         </div>
       </div>
+
+      <style jsx global>{`
+        .ticker-wrapper {
+          width: 100%;
+          height: 24px;
+          overflow: hidden;
+          position: relative;
+        }
+
+        .ticker {
+          display: inline-flex;
+          white-space: nowrap;
+          font-weight: 600;
+          color: #A93226;
+          animation: ticker 15s linear infinite;
+        }
+
+        .ticker span {
+          display: inline-block;
+        }
+
+        @keyframes ticker {
+          0% {
+            transform: translateX(0);
+          }
+          100% {
+            transform: translateX(-50%);
+          }
+        }
+
+        /* Ticker needs enough copies of the text to ensure seamless looping */
+        .ticker > span {
+          animation: tickerItem 15s linear infinite;
+        }
+
+        @keyframes tickerItem {
+          0% {
+            opacity: 1;
+          }
+          100% {
+            opacity: 1;
+          }
+        }
+      `}</style>
     </div>
   );
 };

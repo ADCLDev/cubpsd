@@ -22,7 +22,7 @@ const Collaboration = () => {
 setWorking(true);
 setMember(false);
 setConcern(false);
-}} className={working ? `bg-red-600 text-white font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Working With</button></div>
+}} className={working ? `bg-wine-600 text-white font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Working With</button></div>
 
 <div><button onClick={()=>{
     setMember(true);

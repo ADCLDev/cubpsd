@@ -24,7 +24,7 @@ const PopularCoursesStatic = () => {
           <button
             onClick={() => setSelectedCategory(null)}
             className={`${
-              selectedCategory === null ? "bg-red-600 text-white" : "bg-slate-200 text-black"
+              selectedCategory === null ? "bg-wine-600 text-white" : "bg-slate-200 text-black"
             } font-bold py-2 px-4 shadow-md rounded-xl h-20 w-36`}
           >
             All

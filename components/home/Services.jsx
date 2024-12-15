@@ -24,7 +24,7 @@ const Services = () => {
 
       <div className="grid grid-cols-1 md:grid-cols-3 py-10 gap-5">
         <Link href={`/category/all`}>
-          <div className="flex flex-col max-w-md h-[440px] md:h-[400px] mx-auto p-8 bg-red-700 text-white rounded-3xl shadow-lg">
+          <div className="flex flex-col max-w-md h-[440px] md:h-[400px] mx-auto p-8 bg-wine-700 text-white rounded-3xl shadow-lg">
             <div className="flex justify-center mb-6">
               <div className="flex items-center text-3xl font-bold">
                 <FaBook className="mr-2 text-3xl text-yellow-300" />
@@ -43,7 +43,7 @@ const Services = () => {
           </div>
         </Link>
 
-        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-red-700 text-white rounded-3xl shadow-lg">
+        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-wine-700 text-white rounded-3xl shadow-lg">
           <div className="flex justify-center mb-6">
             <div className="flex items-center text-3xl font-bold">
               <FaLanguage className="mr-2 text-3xl text-yellow-300" />
@@ -64,7 +64,7 @@ const Services = () => {
           </button>
         </div>
 
-        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-red-700 text-white rounded-3xl shadow-lg">
+        <div className="flex flex-col max-w-md mx-auto h-[400px] md:h-[400px] p-8 bg-wine-700 text-white rounded-3xl shadow-lg">
           <div className="flex justify-center mb-6">
             <div className="flex items-center text-3xl font-bold">
               <FaGraduationCap className="mr-2 text-3xl text-yellow-300" />
