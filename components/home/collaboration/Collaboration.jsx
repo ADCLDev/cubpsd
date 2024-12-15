@@ -28,13 +28,13 @@ setConcern(false);
     setMember(true);
     setWorking(false);
     setConcern(false);
-}} className={member ? `bg-[#F5B800] text-black font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Members Of</button></div>
+}} className={member ? `bg-wine-600 text-white font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Members Of</button></div>
 
 <div><button onClick={()=>{
     setConcern(true);
     setWorking(false);
     setMember(false);
-}} className={concern ? `bg-[#F5B800] text-black font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Our Concerns</button></div>
+}} className={concern ? `bg-wine-600 text-white font-bold py-2 px-4 rounded`: `bg-slate-200 text-black font-bold py-2 px-4 rounded`}>Our Concerns</button></div>
 
 
 </div>
