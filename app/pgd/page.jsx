@@ -84,7 +84,7 @@ const CourseCard = ({ course }) => {
           <div className="text-lg font-semibold text-wine-900">
             TK. {course.price}
           </div>
-          <button className="btn btn-primary text-white px-6 py-2 rounded-md transition-colors duration-300">
+          <button className="btn bg-wine-700 btn-primary text-white px-6 py-2 rounded-md transition-colors duration-300">
             Enrol Now
           </button>
         </div>
