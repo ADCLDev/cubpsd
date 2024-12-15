@@ -24,7 +24,7 @@ const PopularCoursesStatic = () => {
           <button
             onClick={() => setSelectedCategory(null)}
             className={`${
-              selectedCategory === null ? "bg-wine-700 text-white" : "bg-yellow-400 text-white"
+              selectedCategory === null ? "bg-wine-700 text-white" : "bg-[#f5e0a2] text-black"
             } font-bold py-2 px-4 shadow-md rounded-xl h-20 w-36`}
           >
             All
@@ -42,7 +42,7 @@ const PopularCoursesStatic = () => {
           //   </button>
           // </div>
           <button key={category.id} className={`${
-                  selectedCategory === category.id ? "bg-wine-700 text-white" : "bg-gradient-to-r from-wine-900/90 via-wine-900/50 to-wine-300 text-white"
+                  selectedCategory === category.id ? "bg-wine-700 text-white" : "bg-[#f5e0a2] text-black"
                 } rounded-xl shadow-md`} onClick={() => setSelectedCategory(category.id)}>
             <div className="card w-[200px] p-1">
               <div className="flex justify-center items-center">
