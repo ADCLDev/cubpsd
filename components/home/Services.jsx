@@ -28,11 +28,11 @@ const Services = () => {
             <div className="flex justify-center mb-6">
               <div className="flex items-center text-3xl font-bold">
                 <FaBook className="mr-2 text-3xl text-yellow-300" />
-                <span className='text-yellow-300'>IT Training</span>
+                <span className='text-yellow-300'>Training</span>
               </div>
             </div>
             <p className="mb-6 text-lg">
-              CESD emphasizes on acquiring knowledge and sharing real-life experiences.
+              PSDC emphasizes on acquiring knowledge and sharing real-life experiences.
             </p>
             <ul className="list-disc list-inside mb-6">
               <li>Latest Training Modules and Technology</li>

@@ -56,7 +56,7 @@ const SecondaryBar = () => {
             {/* Desktop Login Button */}
             <a
               href="/login"
-              className="bg-black text-white font-semibold py-2 px-4 rounded-full shadow-md hover:bg-slate-700 transition duration-300 hidden lg:flex items-center"
+              className="bg-black text-yellow-300 font-semibold py-2 px-4 rounded-full shadow-md hover:bg-slate-700 transition duration-300 hidden lg:flex items-center"
             >
               <MdLogin className="mr-1" />
               <span>Login</span>

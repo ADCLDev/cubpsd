@@ -51,89 +51,94 @@ const NavigationBar = () => {
 
                 {/* Desktop Menu - Centered */}
                 <div className="hidden md:flex flex-1 justify-center">
-                  <ul className="flex items-center gap-6 text-base">
-                    <li>
-                      <Link href="/" className="text-white hover:text-yellow-200 transition-colors">
-                        Home
-                      </Link>
-                    </li>
-                    
-                    {/* About Dropdown */}
-                    <li className="relative group">
-                      <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors">
-                        About Us
-                      </span>
-                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50">
-                        <li>
-                          <Link href="/about_us" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
-                            Mission and Vision
-                          </Link>
-                        </li>
-                        <li>
-                          <Link href="/meet_our_team" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
-                            Meet our Team
-                          </Link>
-                        </li>
-                      </ul>
-                    </li>
+      <ul className="flex items-center gap-6 text-base">
+        <li>
+          <Link href="/" className="text-white hover:text-yellow-200 transition-colors">
+            Home
+          </Link>
+        </li>
+        
+        {/* About Dropdown - Enhanced */}
+        <li className="relative group">
+          <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors py-2 inline-block">
+            About Us
+          </span>
+          <ul className="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100 left-0 top-full mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50 transition-all duration-200 transform translate-y-1 group-hover:translate-y-0">
+            <li>
+              <Link href="/about_us" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Mission and Vision
+              </Link>
+            </li>
+            <li>
+              <Link href="/meet_our_team" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Meet our Team
+              </Link>
+            </li>
+          </ul>
+        </li>
 
-                    <li>
-                      <Link href="/learning_path" className="text-white hover:text-yellow-200 transition-colors">
-                        Learning Paths
-                      </Link>
-                    </li>
+        <li>
+          <Link href="/learning_path" className="text-white hover:text-yellow-200 transition-colors">
+            Learning Paths
+          </Link>
+        </li>
 
-                    {/* Work Placement Dropdown */}
-                    <li className="relative group">
-                      <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors">
-                        Work Placement
-                      </span>
-                      <ul className="absolute hidden group-hover:block left-0 top-full mt-2 w-48 bg-white rounded-md shadow-lg py-1 z-50">
-                        <li>
-                          <Link href="/job_placement" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
-                            Job Placement
-                          </Link>
-                        </li>
-                        <li>
-                          <Link href="/freelancing" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
-                            Freelancing
-                          </Link>
-                        </li>
-                        <li>
-                          <Link href="/career_advice" className="block px-4 py-2 text-red-700 hover:bg-gray-50">
-                            Career Advice
-                          </Link>
-                        </li>
-                      </ul>
-                    </li>
+        {/* Work Placement Dropdown - Enhanced */}
+        <li className="relative group">
+          <span className="text-white hover:text-yellow-200 cursor-pointer transition-colors py-2 inline-block">
+            Work Placement
+          </span>
+          <ul className="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100 left-0 top-full mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50 transition-all duration-200 transform translate-y-1 group-hover:translate-y-0">
+            <li>
+              <Link href="/job_placement" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Internship
+              </Link>
+            </li>
+            <li>
+              <Link href="/job_placement" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Job Placement
+              </Link>
+            </li>
+            <li>
+              <Link href="/freelancing" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Freelancing
+              </Link>
+            </li>
+            <li>
+              <Link href="/career_advice" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+                Career Advice
+              </Link>
+            </li>
+          </ul>
+        </li>
 
-                    <li>
-                      <Link href="/contact_us" className="text-white hover:text-yellow-200 transition-colors">
-                        Contact Us
-                      </Link>
-                    </li>
+        <li>
+          <Link href="/contact_us" className="text-white hover:text-yellow-200 transition-colors">
+            Contact Us
+          </Link>
+        </li>
 
-                    <li>
-                      <button 
-                        onClick={() => router.push("/category/all")}
-                        className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
-                      >
-                        <IoBookOutline />
-                        Courses
-                      </button>
-                    </li>
+        <li>
+          <button 
+            onClick={() => router.push("/category/all")}
+            className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
+          >
+            <IoBookOutline />
+            Courses
+          </button>
+        </li>
 
-                    <li>
-                      <button 
-                        onClick={() => router.push("/pgd")}
-                        className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
-                      >
-                        <IoBookOutline />
-                        PGD
-                      </button>
-                    </li>
-                  </ul>
-                </div>
+        <li>
+          <button 
+            onClick={() => router.push("/pgd")}
+            className="flex items-center gap-2 px-4 py-2 bg-white text-red-700 rounded-md hover:bg-gray-50 transition-colors"
+          >
+            <IoBookOutline />
+            PGD
+          </button>
+        </li>
+      </ul>
+    </div>
 
                 {/* Right Logo */}
                 <Link href="https://www.cub.edu.bd/">
