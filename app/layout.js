@@ -18,7 +18,7 @@ export default function RootLayout({ children }) {
     <html lang="en" data-theme="light">
       <body className={`${inter.className}`}>
         <div data-theme="mytheme">
-          {/* <SecondaryBar></SecondaryBar> */}
+          <SecondaryBar></SecondaryBar>
           <NavigationBar></NavigationBar>
             {children}
           <Footer></Footer>
