@@ -39,7 +39,8 @@ const Services = () => {
               <li>Technologically Advanced Lab Facility</li>
               <li>Well-Qualified and Experienced Instructors</li>
             </ul>
-            <button className="btn bg-black text-white hover:bg-slate-700 mt-9">Find Out More</button>
+            <br></br>
+            <button className="btn font-bold text-lg bg-white text-wine-700 hover:bg-slate-200">Find Out More</button>
           </div>
         </Link>
 
@@ -59,7 +60,7 @@ const Services = () => {
             <li>Native Speaking Instructors</li>
             <li>Practice Tests & Study Materials</li>
           </ul>
-          <button onClick={handleFindOutMore} className="btn bg-black text-white hover:bg-slate-700">
+          <button onClick={handleFindOutMore} className="btn font-bold text-lg bg-white text-wine-700 hover:bg-slate-200">
             Find Out More
           </button>
         </div>
@@ -80,7 +81,7 @@ const Services = () => {
             <li>Professional Certification Exams</li>
             <li>Exam Preparation Support</li>
           </ul>
-          <button onClick={handleFindOutMore} className="btn bg-black text-white hover:bg-slate-700">
+          <button onClick={handleFindOutMore} className="btn font-bold text-lg bg-white text-wine-700 hover:bg-slate-200">
             Find Out More
           </button>
         </div>

@@ -27,7 +27,7 @@ const NavigationBar = () => {
   return (
     <>
       <div className="bg-[#a50d35] font-bold text-white sticky top-0 z-50">
-        <div className="mx-auto px-4 lg:max-w-4xl xl:max-w-7xl">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="drawer">
             <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
             <div className="drawer-content flex flex-col">

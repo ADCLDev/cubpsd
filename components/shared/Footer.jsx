@@ -1,155 +1,75 @@
-// 'use client';
-import { FaMapMarkerAlt, FaPhone } from "react-icons/fa";
-import { MdEmail } from "react-icons/md";
-// import { useEffect, useState } from "react";
-// import { fetchPopularCategories } from "@/utils/api";
-
-import categoryList from "../StaticData/CourseList";
+import { Mail, Phone, MapPin } from "lucide-react";
 
 const Footer = () => {
-  // Get popular courses
-  // const [popularCourses, setPopularCourses] = useState([]);
-  
-  // useEffect(() => {
-    
-  //   setPopularCourses(courseList);
-  // }, []);
-
   return (
-    // bg-gradient-to-r from-blue-900 to-purple-900
-    <footer className="bg-wine-150 text-white py-12">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <footer className="bg-[#B01737] text-white">
+      {/* Main Footer Content */}
+      <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+          {/* About Section */}
           <div>
-            <h6 className="text-xl font-bold mb-4">Contact</h6>
-            <p className="flex items-start gap-4 mb-2">
-              <span className="mt-1">
-                <FaMapMarkerAlt />
-              </span>
-              <span>
-                Head Office:
-                <br />
-                Mustafa Arcade (Flat A3)
-                <br />
-                House # 08 , Road # 1/A
-                <br />
-                Block J, Baridhara
-                <br />
-                Dhaka, Bangladesh
-              </span>
-            </p>
-            <p className="flex items-center gap-4 mb-2">
-              <span>
-                <FaPhone />
-              </span>
-              <span>
-                +8801755557150
-                <br />
-                +8801926712302
-              </span>
-            </p>
-            <p className="flex items-center gap-4">
-              <span>
-                <MdEmail />
-              </span>
-              <span>contact@revolutiontech.zone</span>
+            <h3 className="text-xl font-bold mb-4">About PSDC</h3>
+            <p className="text-sm">
+              Professional Skill Development Center at Canadian University of Bangladesh 
+              is dedicated to advancing careers through specialized education and 
+              practical training programs.
             </p>
           </div>
+
+          {/* Quick Links */}
           <div>
-            <h6 className="text-xl font-bold mb-4">Quick Links</h6>
+            <h3 className="text-xl font-bold mb-4">Quick Links</h3>
             <ul className="space-y-2">
-              <li>
-                <a href="/free_seminar_schedule" className="hover:text-[#A93226] transition duration-300">
-                  Free Seminar Schedule
-                </a>
-              </li>
-              <li>
-                <a href="/mentors" className="hover:text-[#A93226] transition duration-300">
-                  Mentors
-                </a>
-              </li>
-              <li>
-                <a href="/blog" className="hover:text-[#A93226] transition duration-300">
-                  Success Story
-                </a>
-              </li>
-              <li>
-                <a href="/gallery" className="hover:text-[#A93226] transition duration-300">
-                  Our Gallery
-                </a>
-              </li>
-              <li>
-                <a href="/faq" className="hover:text-[#A93226] transition duration-300">
-                  FAQ
-                </a>
-              </li>
-              <li>
-                <a href="/blog" className="hover:text-[#A93226] transition duration-300">
-                  Blog
-                </a>
-              </li>
-              <li>
-                <a href="/privacy_policy" className="hover:text-[#A93226] transition duration-300">
-                  Privacy Policy
-                </a>
-              </li>
+              <li><a href="/" className="hover:text-gray-200">Home</a></li>
+              <li><a href="/about_us" className="hover:text-gray-200">About Us</a></li>
+              <li><a href="/learning_path" className="hover:text-gray-200">Learning Paths</a></li>
+              <li><a href="/career_advice" className="hover:text-gray-200">Career Advice</a></li>
+              <li><a href="/contact_us" className="hover:text-gray-200">Contact Us</a></li>
             </ul>
           </div>
+
+          {/* Programs */}
           <div>
-            {categoryList.length > 0 && (
-              <>
-                <h6 className="text-xl font-bold mb-4">Popular Courses</h6>
-                <ul className="space-y-2">
-                  {categoryList.map((course) => (
-                    <li key={course.id}>
-                      <a href={`/category/by_id/${course.id}`} className="hover:text-[#A93226] transition duration-300">
-                        {course.name}
-                      </a>
-                    </li>
-                  ))}
-                </ul>
-              </>
-            )}
-          </div>
-          <div>
-            <h6 className="text-xl font-bold mb-4">Others</h6>
+            <h3 className="text-xl font-bold mb-4">Our Programs</h3>
             <ul className="space-y-2">
-              <li>
-                <a href="/about_us" className="hover:text-[#A93226] transition duration-300">
-                  About Us
-                </a>
-              </li>
-              <li>
-                <a href="/our_facility" className="hover:text-[#A93226] transition duration-300">
-                  Our Facility
-                </a>
-              </li>
-              <li>
-                <a href="/our_achievement" className="hover:text-[#A93226] transition duration-300">
-                  Our Achievement
-                </a>
-              </li>
-              <li>
-                <a href="/career_placement" className="hover:text-[#A93226] transition duration-300">
-                  Career Placement
-                </a>
-              </li>
-              <li>
-                <a href="/freelancing" className="hover:text-[#A93226] transition duration-300">
-                  Freelancing
-                </a>
-              </li>
-              <li>
-                <a href="/student_feedback" className="hover:text-[#A93226] transition duration-300">
-                  Students Feedback
-                </a>
-              </li>
-              <li>
-                <a href="/contact_us" className="hover:text-[#A93226] transition duration-300">
-                  Contact
-                </a>
-              </li>
+              <li><a href="/category/all" className="hover:text-gray-200">Skill Development</a></li>
+              <li><a href="/pgd" className="hover:text-gray-200">Post Graduate Diploma</a></li>
+              <li><a href="/freelancing" className="hover:text-gray-200">Freelancing</a></li>
+              <li><a href="/job_placement" className="hover:text-gray-200">Workplacement</a></li>
+              <li><a href="/internship" className="hover:text-gray-200">Internship</a></li>
             </ul>
+          </div>
+
+          {/* Contact Information */}
+          <div>
+            <h3 className="text-xl font-bold mb-4">Contact Us</h3>
+            <div className="space-y-3">
+              <p className="flex items-center gap-2">
+                <Phone size={18} />
+                <a href="tel:01974955226">01974955226</a>
+              </p>
+              <p className="flex items-center gap-2">
+                <Mail size={18} />
+                <a href="mailto:contact@cubspdc.com">contact@cubspdc.com</a>
+              </p>
+              <p className="flex items-center gap-2">
+                <MapPin size={18} />
+                House-36, Road-5, Dhanmondi, Dhaka-1205
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* Bottom Bar */}
+      <div className="border-t border-white/10">
+        <div className="container mx-auto px-4 py-4">
+          <div className="flex flex-col md:flex-row justify-between items-center text-sm">
+            <p>© 2024 Professional Skill Development Center. All rights reserved.</p>
+            <div className="flex gap-4 mt-2 md:mt-0">
+              <a href="/privacy-policy" className="hover:text-gray-200">Privacy Policy</a>
+              <a href="/terms-of-service" className="hover:text-gray-200">Terms of Service</a>
+            </div>
           </div>
         </div>
       </div>
@@ -158,42 +78,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
-
-{/* <ul className="space-y-2">
-              <li>
-                <a href="/courses/web_development" className="hover:text-[#A93226] transition duration-300">
-                  Web Development
-                </a>
-              </li>
-              <li>
-                <a href="/courses/graphic_design" className="hover:text-[#A93226] transition duration-300">
-                  Professional Graphic Design
-                </a>
-              </li>
-              <li>
-                <a href="/courses/digital_marketing" className="hover:text-[#A93226] transition duration-300">
-                  Digital Marketing
-                </a>
-              </li>
-              <li>
-                <a href="/courses/mern_development" className="hover:text-[#A93226] transition duration-300">
-                  Mern Stack Development
-                </a>
-              </li>
-              <li>
-                <a href="/courses/motion_graphics" className="hover:text-[#A93226] transition duration-300">
-                  Motion Graphics
-                </a>
-              </li>
-              <li>
-                <a href="/courses/3d_animation" className="hover:text-[#A93226] transition duration-300">
-                  Professional 3D Animation
-                </a>
-              </li>
-              <li>
-                <a href="/courses/content_writing" className="hover:text-[#A93226] transition duration-300">
-                  Content Writing
-                </a>
-              </li>
-            </ul> */}

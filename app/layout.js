@@ -1,11 +1,10 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import SecondaryBar from "../components/shared/SecondaryBar";
-import Footer from "../components/shared/Footer";
 import NavigationBar from "../components/shared/NavigationBar";
 import MessageLinks from "../components/MessageLinks";
 import Socials from '../components/Socials';
-
+import Footer from "../components/shared/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -25,6 +24,7 @@ export default function RootLayout({ children }) {
           <MessageLinks />
           <Socials/>
           {/* need to fix socials */}
+          {/* <Footer/> */}
         </div>
       </body>
     </html>
