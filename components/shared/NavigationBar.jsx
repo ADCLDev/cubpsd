@@ -26,7 +26,7 @@ const NavigationBar = () => {
 
   return (
     <>
-      <div className="bg-[#a50d35] font-bold text-white sticky top-0 z-50">
+      <div className="bg-wine-800 font-bold text-white sticky top-0 z-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="drawer">
             <input id="my-drawer-3" type="checkbox" className="drawer-toggle" />
@@ -90,7 +90,7 @@ const NavigationBar = () => {
           </span>
           <ul className="absolute invisible group-hover:visible opacity-0 group-hover:opacity-100 left-0 top-full mt-0 w-48 bg-white rounded-md shadow-lg py-1 z-50 transition-all duration-200 transform translate-y-1 group-hover:translate-y-0">
             <li>
-              <Link href="/job_placement" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
+              <Link href="/internship" className="block px-4 py-3 text-red-700 hover:bg-gray-50">
                 Internship
               </Link>
             </li>

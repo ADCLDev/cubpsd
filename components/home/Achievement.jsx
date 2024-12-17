@@ -70,7 +70,7 @@ const Achievement = () => {
       <Slider {...settings}>
 
       <div className="flex flex-col px-8 py-10 bg-green-100 rounded-3xl mx-3 gap-4">
-        <p className="font-bold text-xl py-5">Students Choose Revolution Tech Zone</p>
+        <p className="font-bold text-xl py-5">Students Choose Professional Skill Development Center</p>
         <p className="text-base">World-class faculty and cutting-edge curriculum. State-of-the-art facilities with hands-on learning experiences. Global perspective with diverse community. Powerful alumni network for mentorship and opportunities.</p>
       </div>
 

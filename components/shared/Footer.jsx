@@ -2,7 +2,7 @@ import { Mail, Phone, MapPin } from "lucide-react";
 
 const Footer = () => {
   return (
-    <footer className="bg-[#B01737] text-white">
+    <footer className="bg-wine-800 text-white">
       {/* Main Footer Content */}
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -54,7 +54,7 @@ const Footer = () => {
               </p>
               <p className="flex items-center gap-2">
                 <MapPin size={18} />
-                House-36, Road-5, Dhanmondi, Dhaka-1205
+                RANGS RL SQUARE, PRAGATI SHARANI, Bir Uttam Rafiqul Islam Ave, Dhaka 1212
               </p>
             </div>
           </div>

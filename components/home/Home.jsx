@@ -18,7 +18,7 @@ const Home = () => {
           <PopularCoursesStatic></PopularCoursesStatic>
           <Achievement></Achievement>
           <Solution></Solution>
-          <HomeCourses></HomeCourses>
+          {/* <HomeCourses></HomeCourses> */}
           <Providing></Providing>
           <Counts></Counts>
           <Collaboration></Collaboration>

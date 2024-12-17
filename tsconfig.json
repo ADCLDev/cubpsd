@@ -27,7 +27,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/career_advice/page.jsx", "app/internship/page.jsx"  ],
   "exclude": [
     "node_modules"
   ]

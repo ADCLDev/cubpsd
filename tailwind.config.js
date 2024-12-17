@@ -16,6 +16,7 @@ module.exports = {
         wine: {
           50: '#fff1f2',
           100: '#ffe4e6',
+          250: '#f5d7da',
           200: '#fecdd3',
           300: '#fda4af',
           400: '#fb7185',
